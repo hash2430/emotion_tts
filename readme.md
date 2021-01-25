@@ -1,4 +1,8 @@
-결과물 샘플: https://sunghee.kaist.ac.kr/entry/emotiontts?category=824825
+* 결과물 샘플: https://sunghee.kaist.ac.kr/entry/emotiontts?category=824825
+* 체크포인트: 
+** TTS
+** 보코더
+** NLP
 # 1. 원하는 감정으로 합성하기
 ## 1. 합성 문장을 적은 스크립트 생성 => test_text.txt
 아래와 같이 스크립트를 작성한다.
@@ -39,8 +43,12 @@ python inference_from_guide.py
 바르고 고운 표현일수록 accuracy가 잘 나온다.
 
 ## 2. 경로 설정
+1) TTS 관련 
 위와 동일한데 'inference_from_text.py'에서 설정해야 함.
-
+2) NLP 관련
+Tacotron2.inference()에서 self.emotion_distil_bert를 initialize하고 있다.
+여기에 이 글의 맨 위에 배포한 감정인식기의 경로를 적는다.
+물론 inference()에서 language model을 로드하는건 좋은 생각이 아니지만, 현재로는 속도 측면에서 최적화할 계획이 없다.
 ## 3. run
 ```
 python inference_from_text.py
