@@ -54,4 +54,8 @@ Tacotron2.inference()에서 self.emotion_distil_bert를 initialize하고 있다.
 python inference_from_text.py
 ```
 # 3. Emotion classification results
-[Confusion matrix] (https://drive.google.com/file/d/19YGYKZWNqrhmq8VkgYFU1RPutTlGC5Xl/view?usp=sharing)
+# Confusion matrix
+<a href="https://drive.google.com/uc?export=view&id=19YGYKZWNqrhmq8VkgYFU1RPutTlGC5Xl"><img src="https://drive.google.com/uc?export=view&id=19YGYKZWNqrhmq8VkgYFU1RPutTlGC5Xl" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+# Embedding space for in-distribution test set and out-of-distribution testset
+ <a href="https://drive.google.com/uc?export=view&id=1YqOdBNs6BphiksyXkMYYs6AFpouOZUkG"><img src="https://drive.google.com/uc?export=view&id=1YqOdBNs6BphiksyXkMYYs6AFpouOZUkG" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+ 
