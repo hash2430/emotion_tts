@@ -1,8 +1,8 @@
 * 결과물 샘플: https://sunghee.kaist.ac.kr/entry/emotiontts?category=824825
 * 체크포인트: 
-  * TTS
-  * 보코더
-  * NLP :https://www.dropbox.com/sh/xp4w0ee7tx8283g/AAAJTzBqDPEt47MbtK_Gy4Xza?dl=0
+  * TTS: https://www.dropbox.com/s/b0j8ixqdwks93rs/checkpoint_180000?dl=1
+  * 보코더: https://www.dropbox.com/s/yewpxa5f619jlbz/waveglow_256channels_v4.pt?dl=1
+  * NLP :https://www.dropbox.com/sh/xp4w0ee7tx8283g/AAAJTzBqDPEt47MbtK_Gy4Xza?dl=1
 # 1. 원하는 감정으로 합성하기
 ## 1. 합성 문장을 적은 스크립트 생성 => test_text.txt
 아래와 같이 스크립트를 작성한다.
