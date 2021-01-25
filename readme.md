@@ -26,7 +26,23 @@ checkpoint_path, waveglow_path, test_text_path, path를 설정한다.
 화자는 nes로 하드코딩되어있는데 WaveGlow가 single speaker라서 모든 화자에 대해서 음질이 균등하지 않아 nes 화자를 추천한다.
 화자에 대한 정보를 담은 excel파일은 pitchtron에 있다.
 
-## run
+## 3. run
 ```
 python inference_from_guide.py
+```
+
+# 2. 텍스트에서 감정 인식해서 합성하기
+## 1. 스크립트 생성
+위와 동일하지만 네, 다섯번째 컬럼에 감정 코드를 적어도 사용되지 않는다.
+내재된 BERT에서 예측된 감정대로 합성된다.
+이 감정 인식기의 정확도는 훈련 데이터와 동일한 도메인의 경우 90%이다.
+심한 인터넷 말투에는 60%밖에 나오지 않는다. 
+바르고 고운 표현일수록 accuracy가 잘 나온다.
+
+## 2. 경로 설정
+위와 동일한데 'inference_from_text.py'에서 설정해야 함.
+
+## 3. run
+```
+python inference_from_text.py
 ```
