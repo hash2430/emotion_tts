@@ -1,0 +1,4 @@
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00393.wav|너같은 친구가 있어서 너무 행복해|neh|3|3
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00393.wav|할아버지가 돌아가셔서 너무 슬프다|neh|3|3
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00393.wav|개같은 새끼야|neh|3|3
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00393.wav|이 곳에 줄 서 주세요|neh|3|3

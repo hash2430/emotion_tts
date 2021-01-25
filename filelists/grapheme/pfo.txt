@@ -1,0 +1,696 @@
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00059.wav|여 쉐프 진짜 까리한 거 같네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00565.wav|친구들 말로는 내는요 덤벙거린다카네요.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00618.wav|그 사람이 당신을 알아주지 않는다고 해서 불평하지 말아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00252.wav|중앙대 입굽니더. 내리실 문은 오른쪽입니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00587.wav|다이어트 비법을 공유해주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00567.wav|겨울 하면 스키아닙니꺼. 스키장 가실래예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00640.wav|후회할 것 같습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00292.wav|귀에 염증이 생겼네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00512.wav|사과의 의미로 칵테일 한잔 드리도 괘않겠습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00552.wav|그럴 줄 알았어예, 차근차근 오해를 풀어보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00351.wav|저만 이렇게 떠는 건 아니겠지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00610.wav|오늘의 날씨는 십도입니더. 비가 올 예정입니더. 우산을 준비해주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00222.wav|어린이 통학 버스 하차 확인 의무화가 됩니데이. 통학버스 운전자는 아들의 안전한 하차를 반드시 확인한 후에 운행해야 합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00166.wav|전달해 드리겠습니더. 어떤 메시집니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00064.wav|영화 억수로 재미 없습니더. 돈 아까워 죽겠네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00298.wav|의사 쌤이 이래 불친절한 건 처음이었습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00672.wav|좋아하는 음식은 뭐가 있어예? 말씀만 해주이소. 제가 바로 요리를 해드립니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00533.wav|네 다음엔 꼭 하입시더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00293.wav|야구 잘 하는 남자 멋진 거 같아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00158.wav|저 남자친구랑 헤어져뿟는데 다른 사람 소개해 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00625.wav|아직 몬 해봤으예. 당신은 해 보셨어예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00063.wav|여 있네예. 싱거워예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00276.wav|소개해 주셔서 감사합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00056.wav|우짜믄 좋습니꺼. 자꾸 그쪽이 생각난다 아입니꺼.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00545.wav|한번 만들어 보이소. 평소에 뭐 좋아하세예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00670.wav|그라믄예. 기숙사 있어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00039.wav|추부면 히타 틀까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00477.wav|그 쉐프가 요리를 잘 몬 하는 것 같아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00414.wav|케이티엑스로 드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00669.wav|개안타고 말해주이소. 너무 떨립니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00153.wav|사이즈가 쪼매 큰 거 같은데 어떠십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00622.wav|구조대가 가고 있는 상황입니더. 구조대가 도착할 때까지 인공호흡과 심폐소생술을 실시함니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00692.wav|전 세계적으로 유명한 피아니스트가 되고 싶어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00558.wav|하모 하모 서명 부탁 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00003.wav|쪼매만 더 하믄 아주 건강해지실 겁니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00602.wav|마음이 어둡고 가슴이 칵 마키뿐한 상태를 흔히 우울하다고 일컫습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00301.wav|아버님은 어떤 걸 좋아하십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00579.wav|우리 헤어집시더!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00302.wav|그래 멀지 않습니더. 현재 위치에서 약 오분 소요 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00384.wav|고객님! 키즈 클럽은 보호자동반이라 그렇습니더. 불편하셨다면 죄송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00159.wav|잘 참았습니더. 분노가 생기면 참기 힘들지예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00167.wav|제 의견에 반대하시는 분 있으시면 지금 퍼떡 말씀해주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00682.wav|안녕하세여. 와그래예? 마이 아풉니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00428.wav|밝혀졌으니 됐습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00107.wav|반갑습니더. 오늘도 잘해보입시데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00271.wav|반갑습니더. 혼자 오셨어예? 제가 다른 사람을 소개해 드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00562.wav|승용차 요일제 신청해보이소. 각종 혜택이 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00537.wav|고객님 그거는 세일 품목에서 제외된 상품입니더. 아마 매대에 상품이 잘몬 올리지가 있었나 보네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00458.wav|주사도 한대 맞아뿌고 가실래예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00264.wav|저는 뉴에이지 음악 좋아합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00224.wav|추천해준 요리는 어떠셨나예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00295.wav|용서해줄 수 있지예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00662.wav|안전하니 안심하이소! 불안해하지 마이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00419.wav|저런! 힘내이소. 기회는 또 올 껍니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00286.wav|당신은 날씬합니꺼? 뚱뚱합니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00218.wav|올바른 종교에 대해서는 나쁘지 않게 생각합니더. 그쪽은예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00650.wav|그 날은 목요일이네예. 알람을 맞춰놓을까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00624.wav|네 그라믄요, 정확한 시간입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00457.wav|건강 검진 때문에 못 먹는거지예? 조금만 참고 이따가 드시이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00450.wav|저야말로 이 은혜를 우예 갚지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00057.wav|여는 지금 종론데 사람 억수로 많습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00514.wav|넓은 공간에서 수술할 수 있어가 복잡한 수술도 가능합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00534.wav|유명한 사진작가가 됐다꼬 하드라고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00203.wav|거래 조건이 맞지 않는 것 같습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00300.wav|망극한 일을 당하셔가꼬 어째 말씀을 드려야 할지 모르겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00353.wav|네. 있습니더. 이쪽으로 오이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00483.wav|네, 와이파이 비밀번호는 룸 남바와 고객님 성으로 로그인하시믄 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00297.wav|피티도 등록하실 껍니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00223.wav|가, 여자 친구 없지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00178.wav|아까 말씀하신 거 다시 말씀해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00089.wav|우리 소방서는 청소년들의 진로설계 지원을 위한 미래 소방관 체험교실을 운영하고 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00141.wav|눈 오믄 운전하기 힘든데, 저는 그다지 좋지 않네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00666.wav|고맙습니더. 당신 덕분 입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00192.wav|반갑습니더, 오늘 하루는 어땠습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00620.wav|네, 지금은 가능한데예, 유럽의 저가 항공사는 이티켓을 인쇄해 가지 않으면 삼십유로 패날티를 부과하기도 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00309.wav|세포 검사와 소변 검사를 할께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00619.wav|죄송합니더. 회사 전화라 사적인 전화는 곤란합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00239.wav|드디어 그르케 원하던 집을 장만하셨네예! 설레시지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00645.wav|그 학원 강사님들은 억수로 좋아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00189.wav|웨딩드레스가 억수로 눈부시게 예쁘네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00029.wav|속상하시겠네예. 그치만 아직 결과는 모르는겁니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00332.wav|승객님. 결혼기념일 축하드립니더! 승객님을 위한 작은 케이큽니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00219.wav|저도 그 약속은 진짜 지키고 싶지 않습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00443.wav|제가 먹어본 음식 중에 당연히 최고였어예, 감사합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00066.wav|에르메스 매장을 찾으시는건가예, 개안타면 제가 동행해드려도 될까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00495.wav|어떤 색으로 염색하실래예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00430.wav|그러믄요. 변경 가능 합니더. 최대한 빨리 도와드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00129.wav|이번 일은 용서해드릴 수가 없네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00407.wav|너무 죄송하지만 용서해 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00469.wav|시립 미술관에 반고흐 작품이 들어왔다카는데 어떠세여?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00595.wav|선물 말씀이시군예. 그람요! 같이 골라드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00479.wav|또 비양심적인 업주나 택시 운전사들이 여행객들의 페소가 진짠지 살피는 척하다가 진짜 돈을 위조지폐로 바꿔 가는 경우도 많으니까 주의하이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00585.wav|검정 슬랙스가 잘 맞는거 같네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00641.wav|기획사 대표를 알고 있어예. 제가 연락처를 드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00556.wav|네 그라믄요. 아도 있으시네예. 카시트는 의무사항입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00626.wav|그녀도 후회하고 있지 않을까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00137.wav|그건 와예? 한번 검색해 보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00527.wav|저는 의사가 돼가 섬마을로 가고 싶어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00033.wav|여는 벌갱이가 느무 많을 것 같네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00475.wav|하모여, 당연합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00627.wav|은행에 확인해볼게예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00220.wav|가르쳐 주시가꼬 감사합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00162.wav|해발 천 오백 십 칠미터로 쪼매 높을 수 있다카지만 안전합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00246.wav|와 제 의견엔 답이 없으십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00030.wav|진찰받고 처방전 가지고 오시믄 더 좋습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00516.wav|무더븐 더위가 계속되고 있습니더. 건강 유의하세예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00658.wav|자동차 참말로 탐나던데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00258.wav|교통카드로도 계산이 가능합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00380.wav|성공하셨네예. 축하드립니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00355.wav|또한, 중앙선의 색상이 흰색이라서 일본에서 처음 운전하는 분들은 헷갈릴 수 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00360.wav|여는 촬영 금지 구역이라 안됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00573.wav|이 은혜를 어째 갚으면 좋겠습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00371.wav|도와주실 분은 안 계신가예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00370.wav|나이까진 잘 모르겠으예. 죄송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00073.wav|예전에도 이랬습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00083.wav|그람요. 근처 산책용 유모차가 로비에 구비되어 있습니더. 지금 사용하실낍니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00062.wav|의자를 발로 차지 마이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00492.wav|키즈룸은 지하 일층에 있습니더. 키즈룸을 이용해 보실랍니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00455.wav|하모하모, 티머니 결제도 가능합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00104.wav|예. 그라믄요. 느무 마이 드시진 마이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00126.wav|용서는 못 할 것 같습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00228.wav|외롭습니더. 같이 놀아주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00543.wav|네 고객님, 혹시 문자로 예약 취소가 오지 않았나예? 발리 공항이 폐쇄돼가 현재 모두 결항이라 변경 가능하다고 문자 드맀었거든예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00002.wav|남자 연기자 아는 분 있습니꺼? 소개 좀 시켜주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00173.wav|정말 기뻐하시겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00617.wav|말 안할께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00528.wav|저는 그 영화 음악이 너무 좋드라꼬예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00700.wav|아 할인 요금 포함 백오십만 원입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00691.wav|수정 불가 합니더. 죄송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00015.wav|말도 마소. 엄청 힘들었다아입니꺼.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00621.wav|수능이 며칠 안 남았네예. 조금만 더 고생하이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00260.wav|뜻밖의 비보에 애통한 마음을 갖고 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00433.wav|그라믄예. 잘 알겠습니더. 기도할께예! 파이팅!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00237.wav|일반적으로 통증이 호전될 때까지 시원한 물로 소독을 시행합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00600.wav|오면서 다리를 다쳐뿌습니더. 죄송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00052.wav|쪼매만 더 얘기할까여, 우리?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00405.wav|당신은 저를 비난 할 자격이 없어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00139.wav|그 학원 유명하다 하던데 별로였나 보네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00435.wav|국내선은 이십사개월 미만의 아는 무료이나, 꼭 의료보험증이나 주민등록등본을 지참하시길 바랍니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00453.wav|공원과 마트가 있고 편리한 곳을 찾는다믄, 하단에 롯데마트 부근과 이마트 쪽이믄 괘않을거 같은데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00498.wav|특별 기내식을 신청하셨네예! 땅콩 알레르기가 있으신가 보네예. 바로 가져다 드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00021.wav|진짜 어려운 문제네예. 정답은 사백오십만 원입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00403.wav|네. 걱정이 많으시지예? 먼저 예약 확인부터 하고 변경 도와드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00006.wav|가슬비가 오니 마음이 심란하데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00592.wav|남자친구가 생겼어예! 잘생겼습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00505.wav|제가 지금 목 상태가 좋지가 않아서예, 문자로 얘기해도 될까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00172.wav|체력이 억수로 많이 소모된다카이 주변에 응급처치할 수 있는 사람이 있다하면 번갈아 가면서 실시하는 것도 좋습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00312.wav|남성분 꺼 보십니꺼, 여성분 꺼 보십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00108.wav|그래 고생하셔서 우짭니꺼. 힘내소!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00632.wav|이 넥타이는 어떻습니꺼? 어떤 스타일에도 다 잘 맞거든예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00116.wav|조용하게 혼자 살고 싶네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00124.wav|시간 쪼매 있으시면 제 고민 상담 좀 들어주실래예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00491.wav|저는 대구에 살지예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00444.wav|엄마야, 누구 선물 줄라꼬예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00461.wav|자! 모두 한잔하입시더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00467.wav|저 지금 너무 배고파예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00532.wav|전 오늘 아무것도 못 먹으예, 같이 묵지예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00174.wav|그건 못하겠습니더. 죄송합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00603.wav|못 지냈습니더. 살도 억수로 쪘고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00426.wav|수고하셨습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00243.wav|억수로 잘 지내지예. 결혼했자나예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00004.wav|다리를 더 구부려보라카이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00631.wav|사업에 성공하신 거 경축 드립니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00053.wav|은행 금리는 와 이래 높은 긴교?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00161.wav|네. 억수로 예쁘더라고예. 예쁜 여자들 좋아하시지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00191.wav|동남아 대부분 지역은 수질이 좋지 않다카고, 석회성분이 많은 물이 많습니더. 수돗물이나 식당에서 주는 물도 조심해야 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00466.wav|잘못된 교훈을 가르칠라카는 거라 들었으예. 한번 검색해보까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00497.wav|지원자 출신 학교의 선배들이 일을 잘했습니더. 하지만 경력을 쌓아가 삼성으로 이직하는 경우가 많았습니더. 본인도 그래 할껍니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00385.wav|그렇네예, 고객님. 옆 테이블하고 혼동이 있었습니더. 너무 죄송합니더. 바로 다시 가져다 드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00331.wav|우리나라 말고 다른 나라 어데 가서 살고 싶으신가예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00120.wav|사람들 말로는 제가 유머러스하다카네예!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00248.wav|마음이 와 안 좋으십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00081.wav|와 오셨습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00357.wav|저는 정말 친절하다고 느꼈으예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00546.wav|그라믄 예약된 겁니다.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00676.wav|어쩝니꺼! 저는 애인 있는데, 지금 기다리고 있어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00506.wav|저 땜에 늦으셨지예? 지송합니더. 빨리 서두르지 몬해가 정말 죄송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00398.wav|그동안 그래 고생하셨는데 다행입니더. 저도 기쁩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00011.wav|맞다카이. 거는 최악이었다카이!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00480.wav|네 피팅 해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00147.wav|하늘이 파란 이유는 빛이 산란해뿌가꼬 가시광선의 영역 중 파란색 부분 해당 파장을 반사하기 때문입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00024.wav|예, 발급기에서 예약 번호 누르시면 바로 발급 가능합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00128.wav|예. 병원 좀 가보셔야 할 것 같은데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00364.wav|발롱펌 해드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00608.wav|아침 아홉시부터 오후 네시까집니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00212.wav|아들을 가르치고 싶어예! 아들을 좋아 하거든예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00023.wav|바로 가져다 드리겠습니다.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00611.wav|네 저도 이해할라꼬 노력하겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00588.wav|세 정거장 후에 내려가꼬 도보 오분 소요됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00329.wav|네, 그라믄요. 오늘 들어온 겁니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00550.wav|이야기의 주제를 파악하지 몬하겠어요.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00185.wav|저는 라떼로 먹을께예. 휘핑크림 얹어서예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00422.wav|학군이 좋은 동네는 양천구 목동입니더. 부동산 소개해드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00346.wav|자세한 건 부모님과 상의해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00663.wav|설마 구입하실 건 아니지예? 유지비만 해도 엄청납니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00096.wav|환율에 익숙하지 않은 손님들한테 물건 가격을 말하지 않고 많은 액수의 영수증에 사인하도록 유도하는 경우가 있다 하니까 주의해 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00429.wav|이번 출구로 나가서 백삼십번 버스를 타이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00680.wav|아침 여섯 시부터 열 시까지 가능하고 삼층 조식당으로 가시면 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00233.wav|재채기는 몸 안에 있는 먼지를 밖으로 꺼낼라하는 겁니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00687.wav|싫은데예. 당신부터 말해 보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00322.wav|시선을 찬찬히 돌려보시는게 좋습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00361.wav|새로운 음식이라 해서 무봤는데 별로드라고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00054.wav|마음은 싫타카지만 으짤 수 없지예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00245.wav|뭐 하나만 여쭤봐도 될까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00442.wav|곧 좋아진다카이. 너모 걱정하시지 마시라예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00010.wav|예. 좋아합니더. 요새는 쪼매 바빠서 못 봤스예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00339.wav|그라믄 거서 이따 봅시더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00698.wav|무상 에이에스 기간은 일 년입니더. 감사합니다.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00431.wav|여름엔 당연히 바다를 가야지예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00615.wav|베드민턴 마니 힘들다꼬 카든데 어떤가예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00673.wav|현재 레스토랑이 너무 붐벼가꼬 자리가 여 밖에 없는데 괜찮습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00100.wav|따라서 대학 병원의 응급실 이용이 필요한지 점검해 볼 필요가 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00486.wav|고객님! 속옷은 교환이 불가능 하다꼬 계산할 때 양해 말씀드렸는데 못 들으셨어예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00198.wav|안녕하십니꺼? 이용해 보신 적 있으십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00169.wav|목돈 굴리기 가입 하실 껀가예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00548.wav|드디어 취업했습니더, 그쪽은 했어예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00644.wav|모두들 댁의 능력을 높이 평가하고 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00106.wav|양보하기 싫습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00526.wav|어른 걸음으로는 십분, 아 걸음으로는 이십분 걸릴 예정입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00296.wav|좌욕을 하루에 두 번 정도 해주시고예. 치질 연고를 좀 발라주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00434.wav|올가을 유행하는 남자 패션 스타일은 가디건에다가 슬랙습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00112.wav|그래 빨리 가다간 사고납니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00509.wav|고라모, 화제를 바꾸지예 머.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00132.wav|음식이 정말로 훌륭하네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00517.wav|하모 다 지난 일인데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00035.wav|오즈 항공편을 이용하시는 아시아나클럽 또는 스타얼라이언스 회원이라면, 오일 무료 이용 가능하고예. 일일 초과 시 이천원 부과됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00140.wav|다시 연락해보이소. 인연이면 당신 마음을 받아줄 껍니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00350.wav|케이티엑스와 새마을호, 무궁화호가 있습니더. 어느 열차로 하실 건데예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00145.wav|저는 가수가 되는 게 꿈입니더. 노래 부르는 건 정말 신납니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00171.wav|필요에 따라 심폐소생술 등 즉각적인 응급처치를 취하는 것이 환자한테 큰 도움이 될 수 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00326.wav|저는 통통한 편입니더, 당신은예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00630.wav|좋은 결실 보게 되가 진심으로 축하드려예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00356.wav|그랄 수 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00445.wav|사람은 비는게 다가 아니라예, 마음을 볼라꼬 노력해보시라예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00377.wav|이효리는 천구백칠십구년 오월 십일에 태어난 대한민국의 가숩니더. 더 자세한 정보를 원하십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00289.wav|네, 그렇게 하겠습니더. 더 필요하신 건 없으십니까?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00677.wav|그 부분은 제가 도움이 되드리지 몬할꺼 같아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00280.wav|위반시 벌칙금 십삼만 원, 십삼세 미만 육만 원이 부과됩니더. 육세 미만 카시트 미착용시에는 벌칙금 육만 원이 부과됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00234.wav|서울에 위치하고 있습니더. 오늘 거 가십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00613.wav|참 오랫동안 견뎠습니더. 수고하셨어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00411.wav|결제는예? 현금하고 카드 중에 어떤 걸로 하시겠습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00310.wav|맞습니더. 그 백화점은 최악입니더!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00633.wav|위탁 수화물 이십오유로로 무게는 이십킬로그램입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00164.wav|저런! 무슨 일 있었습니꺼? 와 우울하십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00287.wav|조용한 음악 틀어드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00412.wav|의식이 있는 환자에게 저혈당 증상이 있다면 식사 혹은 당정제, 사탕, 주스, 비다이어트 음료 등 단 음식을 섭취하며 회복될 수 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00157.wav|네, 고객님. 인기 상품 코너는 이쪽인데예. 인기 상품보다는 고객님 취향에 맞게 보시는 것이 쪼매 더 좋으실 거 같습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00639.wav|역시, 와 여를 오는지 알겠네예. 억수로 맛났습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00087.wav|아따! 제가 다 떨리네예! 뭐라 고백하셨습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00490.wav|고소한 맛이지만 매운맛을 더 추가해 드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00540.wav|좋은 곳에 가싰을 기라 믿습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00421.wav|화면에서만 보던 걸 실제로 먹어보니 감회가 새로웠으예! 진짜 맛있었습니더!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00404.wav|추가 시에는 이십킬로그램 사십파운드가 발생합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00594.wav|면접 잘 보셨습니꺼? 이번에는 꼭 취업하실 수 있을 껍니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00531.wav|인자 막 도착했으예 잠시만예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00151.wav|거는 안됩니더. 가지 마이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00376.wav|여예, 여가 아파예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00661.wav|반갑습니더! 저는 아리아라고 합니더. 잘 부탁드립니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00070.wav|그니까 아까부터 빨리빨리 하라고 했다 아이가.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00131.wav|근처에 소아청소년과 있습니꺼? 저 좀 알려주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00195.wav|어느 은행에서 출금할까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00170.wav|같이 요리 해가 드실래예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00160.wav|책 상태가 억수로 훌륭하네예. 가격을 높게 측정해드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00358.wav|휴 그랜트가 나오네예!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00194.wav|월세예, 전세예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00424.wav|저는 둘 다 좋아합니더. 당신은 어떠십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00337.wav|원하시는 상품을 말씀해주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00105.wav|여로 앉으시겠습니꺼? 두 분 자리는 여밖에 안남았습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00476.wav|굿모닝, 인자 겨울인가 보네예. 너무 쌀쌀해예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00391.wav|십칠세 이상 등록 외국인도 사전등록 후 이용해야 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00255.wav|반갑습니더. 카모메 식당입니더. 두 분이심니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00378.wav|대출 상담사 좀 바꿔보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00589.wav|이제 곧 입학헙니더! 너무 설렙니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00367.wav|하이고, 반갑습니더. 우리 잘 지내보입시데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00076.wav|고객님! 저희는 아울렛이라 보증기간이 없습니더. 죄송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00354.wav|성장이 활발하게 진행 중인 청소년들이 담배를 피워뿌면, 몸에 미치는 나쁜 영향이 성인보다 더 큽니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00135.wav|아까 저는 그 쪽 행동에 억수로 실망했습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00503.wav|맞아예, 그기 진짜 중요해예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00394.wav|먼저 상품 유무를 보셔야 할 것 같습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00274.wav|잠깐 들렀습니더. 여서 보니 더 반갑네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00578.wav|침사추이의 하버뷰는 억수로 근사합니더. 특히 야경이 더 좋다카이 꼭 구경 한번 해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00251.wav|이때 주의할 점이 누르는 각도가 구십도가 돼야 한다는 건데예, 말랑말랑한 손바닥 전체를 이용하는게 아이고 손바닥 아래 딱딱한 부위로 눌러줘야 하믄서, 약 오쎈치미터 이상 깊이로 눌러줘야 합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00027.wav|우리 께임하면서 한 잔 더 할까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00119.wav|아침 열 시까지 반납하시면 됩니더. 시간이 지날 경우 오버 차지가 발생합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00522.wav|아무래도 거는 아인거 같아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00402.wav|그거는 비밀인데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00333.wav|네, 여보세요. 말씀하이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00121.wav|변명 좀 그만 하이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00599.wav|갑작스러운 사고로 인해 많은 분께 인사를 못 드렸습니더. 찾아주셔서 감사합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00103.wav|오늘의 일정은 여까집니더. 모두 즐거운 여행이셨습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00542.wav|무서운 꿈을 꾸가 아직도 떨려예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00656.wav|먼저 운전면허증 제시해주시고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00072.wav|개안습니더. 열 시까지는 사람들이 있을 겁니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00481.wav|예약되지 않았습니더. 다시 한번 확인해주시라예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00111.wav|저희 항공사에서는 무료 간식을 제공해드리고 있습니더. 비스킷과 견과류가 있는데 드시겠습니까?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00647.wav|검사 결과 급성 편도염입니더. 빨리 염증을 제거해야 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00250.wav|네. 감사합니데이. 억수로 기분이 좋아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00628.wav|서두리지 마이소. 돌다리도 두들기가 건너봐야제.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00452.wav|트래킹은 일반적인 해외 여행과는 달리 대개가 문명 시설 낙후된 지역에서 행해지니까 풍토병이나 질병에 글리뿔 우려가 큽니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00464.wav|이사하셨다믄서예? 축하드려예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00268.wav|지금은 매장 점검 시간입니더. 삼십분 뒤에 오시면 더 좋은 서비스로 보답하겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00427.wav|저는 미국에 있어예. 요즘 날씨 억수로 좋습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00214.wav|일주일에 세 번 꾸준히 운동하고 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00316.wav|집들이 초대해 주시면 기쁠 것 같습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00060.wav|어서오이소. 브이알 체험관입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00077.wav|하시는 일을 좋아한다카니 보기 좋습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00032.wav|마음에 드십니꺼? 고르면서 걱정좀했습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00038.wav|가들은 성격 차이로 헤어졌습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00652.wav|안녕하심꺼! 잠시 병원 좀 다녀와도 될까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00182.wav|아가 윽쑤로 예쁘네예, 저희 항공사에는 키즈 팩 서비스가 있습니더. 드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00328.wav|잘했으예. 감사합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00574.wav|벌써 까묵읏습니꺼? 팔월이자네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00368.wav|병원에 들렀다 오느라 늦었습니더! 죄송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00638.wav|와 이래 오랜 만인교?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00494.wav|그동안 이상하게 식욕이 없었는데 오늘에야 살아나뿐거 같네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00196.wav|이십 분 정도 기다리셔야 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00323.wav|이왕 늦아뿐 거 그냥 천천히 가뿝시더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00080.wav|그라믄, 같이 찾아보입시데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00659.wav|말해서 뭐합니꺼! 억수로 잘 지내고 있지예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00683.wav|원숭이들이 귀중품을 가져가 뿌기도 하고, 가끔은 관광객을 공격하는 일도 발생합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00236.wav|따라서 주문할 때는 쪼매난 밑반찬이라도 무조건 계산해야 한다고 생각해야 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00513.wav|이 봉을 창문에다 끼아가 지렛대를 들어 올리듯이 힘껏 힘을 주믄 창문이 쉽게 깨집니더! 재빨리 탈출하이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00560.wav|필리핀, 베트남, 인도네시아 중 해외 진출 국가를 선정하고 그 이유를 말씀해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00410.wav|우리 처음에 만났을 때보다 훨씬 서로에 대해 많이 알아간 것 같네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00285.wav|더블 다운 입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00227.wav|이번 달에 어무이 생신이 있어가꼬 지출이 많아질 텐데, 개안을까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00569.wav|지금 억수로 흥분됍니더! 제가 일등을 했다아입니꺼.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00209.wav|미세 먼지 발생을 줄이려는 조치로 이천오년 이전에 등록된 경유차 중 자동차 종합검사를 받지 않았다카거나, 불합격해뿐 차량은 서울시 모든 도로에서 운행이 불가능 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00207.wav|그럴 수도 있다고 들었으예. 너무 안타까운 거 같아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00605.wav|누가 잘못 올려놨나보네예. 죄송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00012.wav|변경 할 시간이 지났습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00536.wav|더 좋은 기회를 통해가 꿈을 이루시기를 진심으로 바랍니더. 감사합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00388.wav|네, 고객님. 편하실 대로 하이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00500.wav|잘 아는 이탈리안 레스토랑 있는데 같이 가실래예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00290.wav|억수로 좋은 계획이네예. 꼭 이루시길 바랄께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00168.wav|예약 확인 말씀하시는 겁니꺼? 도와드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00635.wav|좋은 아침입니더. 별일 없었지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00690.wav|네. 당신도 함께 했으믄 좋겠어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00247.wav|뭐라고 위로의 말씀을 드려야 할지 모르겠네예. 그래도 힘내이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00501.wav|지금 제주도는 기상 악화로 인해가 결항입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00474.wav|왕복 요금은 삼십만원입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00051.wav|저는 여 세미나 때문에 왔습니더. 댁은요?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00061.wav|머리는 개안습니꺼? 어제 쪼매 많이 드신 것 같던데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00016.wav|성격의 장단점을 솔직하게 말해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00518.wav|장난치지 마이소, 저 진짠줄 알았잖아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00349.wav|이유식으로 해주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00031.wav|저는요 이 노래 너무 좋습니더! 마음이 슬퍼지네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00580.wav|간단한 자기소개 부탁드립니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00606.wav|차 수리가 완료됐습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00499.wav|저야말로 죄송합니더. 괘않습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00133.wav|신고방법은 세대주 또는 세대를 관리하는 자, 세대주의 위임을 받은 배우자 또는 직계존비속이 거주지 관할 동주민센터에 방문해가 접수하실 수 있고, 홈페이지 민원이십사에 접속해가꼬 신고하실 수 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00303.wav|봄이라 다들 소풍을 가는지 길이 억수로 막힙니더. 오늘 출근 잘 하셨습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00538.wav|그 길은 막혔삐습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00338.wav|안녕하십니꺼. 여는 서비스 팀입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00281.wav|단속 카메라 단속 범위 확대가 기존 아홉가지에서 다섯가지 항목을 더해가꼬, 총 열네가지 항목으로 늘어납니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00471.wav|힘들어도 참고 이겨낼라꼬 노력해 보시라예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00307.wav|짜증 내지 마이소. 음악 한 곡 들려드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00482.wav|삼백불은 대한항공 비행기 이용할 때 쿠폰으로 사용하실 수 있습니더. 괘않이시겠습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00040.wav|글쎄예. 댁부터 말해보소. 댁이 하기 달렸심더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00472.wav|넘들이 그라는데 저는 유머 감각이 있다카대예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00524.wav|그라모 다음 번엔 다른 레스토랑 가봐예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00646.wav|전등이 수명을 다한 것 같습니더! 교체할까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00020.wav|오분 간격의 배차 시간 입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00211.wav|마지막으로 잰게 몇 도였습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00041.wav|와예? 그건 비밀입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00362.wav|어? 우리 전에 본 적 있지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00504.wav|현재 역에서 타시면 됩니더. 세 정거장 걸립니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00075.wav|셔틀버스는 사호선 광화문역에서 내리시면 정류장이 있습니더. 이십분 간격으로 운영되고 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00359.wav|쉽게 잠이 들기 어려우십니꺼? 배도 뭉치기 시작하시고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00582.wav|저는 보지도 못했습니더. 영화가 억수로 끔찍하더라고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00095.wav|거보소. 잘 될 끼라고 했다아입니꺼.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00079.wav|도슨트 설명을 들으실 수 있는 시간은 오후 두시, 오후 네시, 오후 여섯시고, 미리 예약을 해야 하는 서비습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00156.wav|네. 여 올려놔주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00583.wav|일반 버스 칠백칠을 타시고 신광마을 입구, 진접센트레빌시티 내려가꼬 수도권 일호선 청량리역에서 하차, 공항철도 서울역으로 환승하시가꼬 김포공항역에서 하차하이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00612.wav|대중교통을 이용하실 건가예? 지하철로 세 정거장 이동해가 다시 버스를 타고 한 정거장 가야 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00336.wav|죄송하지만 다시 돌아오는 일정이 아닙니더. 쪼매만 참아주시겠습니까?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00045.wav|여 누워보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00146.wav|어제는 이미 지나가뿟으예. 이자뿌소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00241.wav|정말, 잘됐네예. 첫 월급 받으면 뭐하실 껍니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00688.wav|그동안 고마웠습니더. 잘 지내시라예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00134.wav|우리 나갈까예? 억수로 시끄럽지 않아예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00282.wav|층간 소음이 정말 문제네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00138.wav|구입하자마자 고장이라카이, 당장 환불 해 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00067.wav|예. 여서 하시면 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00598.wav|다시 한번 잘 생각해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00007.wav|세상에! 느무 반갑다.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00049.wav|저를 키워주셔서 감사합니더! 은혜에 보답하고 싶습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00217.wav|아입니더! 개안습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00454.wav|독감 주사 맞았어요? 이제 곧 추와질 텐데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00231.wav|용서해 주시믄 제가 영화 보여 드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00664.wav|당신도 억수로 예뻐예. 자신감을 가지이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00042.wav|댁이 낸 과제 평가와 시험 성적입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00232.wav|잠시만예. 지금 오고 계십니더. 끊지 말아 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00034.wav|글쎄예. 억수로 어려운 얘기네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00149.wav|와 그란지 저한테 얘기해 줄 수 있을까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00257.wav|블로그에서 인기던데 어떠셨습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00493.wav|네 고객님. 하지만 해외에서 오실 때와 해당 국가 입국 시 왕복 항공권을 요구하므로, 티켓을 인쇄해 가시는 것이, 불편이나 시간의 소모를 줄일 수 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00088.wav|홈페이지 들어가며는 이번 달 공연 프로그램을 다양하게 안내받으실 수 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00408.wav|힘든 날들이었어예. 상처 극복이 안 되네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00050.wav|앞에서 쪼매만 대기해 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00406.wav|사번 출구로 나가시면 바로 보입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00681.wav|안녕하세여! 스터디 몇 시에 하지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00535.wav|불만이 많은 건 알겠지만, 요런다고 해결되지는 않아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00438.wav|아까 그 영화 당신은 우때씁니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00382.wav|학교생활은 어떻습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00199.wav|운전면허증을 발급받기 위해서는 본인을 확인할 수 있는 신분증이 필요했다카지만, 개정된 법규에는 운전면허의 부정 발급을 방지하기 위해서 본인 확인을 위한 지문 정보를 확인합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00456.wav|오늘 아침 열시부터 물탱크 청소시간이라예. 오후 세시경에 다시 온수가 나올 겁니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00539.wav|바베큐 폭립이 제일 맛있습니더. 한번 무 보실래예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00432.wav|제 마음 이해하십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00648.wav|제 번호는 공일공에 이오팔구에 오이오팔입니더. 댁 번호도 좀 알려주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00379.wav|네, 고객님 예약되셨습니더. 혹시 기내식도 따로 예약해드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00269.wav|유명한 곳을 소개해드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00372.wav|네. 가능합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00097.wav|아입니더! 외근 나가셨습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00554.wav|당뇨병 검사를 한번 해볼게예. 공복 혈당검사는 적어도 여덟시간 동안 금식한 후에 행해져야 되니까 내일 검사 해보는 걸로 하지예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00485.wav|가슴확대 수술 방법으로는 듀얼 물방울과 에이지디 내시경 가슴 수술, 하이브리드와 자가 지방, 모티바 등이 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00462.wav|동아리의 경험에 대해서 말씀해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00165.wav|아 근육 조직도 대부분이 완성된 형태를 갖추게 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00201.wav|손님, 현재 한 명의 좌석 밖에 없습니더. 우째 해드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00026.wav|먼저 시력 검사 좀 해볼께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00071.wav|억수로 예쁠거같네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00581.wav|어데까지 가십니꺼? 같이 가입시더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00069.wav|이혼은 두 분만의 문제가 아닙니더. 다시 한번 잘 생각해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00487.wav|저는 시애틀 스타벅스 일호점에 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00409.wav|무료법률상담실은 서울시청 서소문청사 일동 일층 내에 있고예, 공휴일을 제외한 월요일부터 금요일까지 매일 오전 열시부터 열두시, 오후 두시부터 다섯시까지 운영됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00025.wav|증말, 설렙니다.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00557.wav|세상에 요래 이쁜 여자친구가 있었다니.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00590.wav|우리 편이 졌습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00566.wav|전망 좋은 레스토랑 소개해드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00022.wav|성향 테스트를 했는데 잘 맞더라고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00013.wav|금마랑은 방금 막 헤어지고 오는 길이데이. 마음이 느무나 아픕니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00508.wav|고객님, 비행기 연착으로 인해가 저희 항공사에서는 호텔비와 아침, 점심, 저녁 가격을 삼백불로 보상해드릴 예정입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00478.wav|그거는 지도 잘 모르겠습니더. 한번 검색해볼께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00001.wav|안녕하십니꺼! 반갑습니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00306.wav|그라믄 완료된 거니까 걱정하지 않으셔도 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00365.wav|배수구 청소를 시작할께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00273.wav|오해를 풀어야지예. 다시 연락해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00547.wav|미얀마 여행 주의사항. 사원 출입 시 의복에 주의해주셔야합니더. 사원 출입 시에는 맨발로 들어가셔야 하고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00005.wav|귀중품은 항상 몸 안쪽에 소지하이소. 소매치기가 보기보다 억수로 많습니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00163.wav|제 키는 백 칠십쎈티미터예. 그건 와 묻습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00591.wav|시간이 얼마 안 남았습니더. 더 열심히 하이소!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00085.wav|그라믄, 수업을 시작하겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00325.wav|네, 치즈버거 하나랑 커피 한잔 주문받았습니더. 더 필요하신 상품은 없으십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00093.wav|같이 현장에 나가가 찾아보입시더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00572.wav|저는요, 대가족이 모여 사는 게 꿈입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00553.wav|물고기는 아가미로 산소를 글르내고 무이요.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00413.wav|이제 저한테 관심 두지 않으셨으면 좋겠어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00660.wav|어떤 건데예? 말씀해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00684.wav|옴마야. 땀 마이 흘리네예. 열심히 일하셨나 봐예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00175.wav|베스트 상품 코너에 가시면 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00655.wav|억수로 죄송합니더. 비어있는 룸이 있는지 확인 후 연락드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00259.wav|네. 곧 도착합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00363.wav|그라믄요. 마음에 드시는 건 다 입어보셔도 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00272.wav|삼일 후에 오이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00441.wav|그라게예, 다들 조용히 해주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00190.wav|반갑습니더! 시험 본 거 어케 됐습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00401.wav|그라믄예. 당장 해드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00347.wav|네, 단추 수선만 해드리면 되는거지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00649.wav|지금은 브레이크 타임이라 한 시간 후에 다시 오픈합니더. 예약해드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00418.wav|필러 가격은 칠만 원에서 십만 원까지 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00420.wav|안녕하십니꺼! 우리 자주 만나면 좋겠네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00576.wav|고객님께만 해드리는 겁니데이. 어데 가서 말씀하시면 안댑니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00014.wav|와요? 그건 비밀입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00082.wav|이때 세대주 공인인증서가 필요하다 하니까 참고 부탁드립니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00653.wav|삼백육십번 버스를 타시면 됩니더. 오분 후에 도착 예정입니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00208.wav|네. 저는 여기 있는데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00374.wav|메뉴판만 봐도 식욕이 살아나는 것 같네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00197.wav|네. 그라믄 저도 다른 분한테 드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00101.wav|담배 연기 속에는 몸에 해로운 타르라는 성분이 들어가 있는데예, 그 성분은 암을 유발시킵니더. 게다가 니코틴은 신경 세포들 간의 정보 전달을 방해합니더. 그라니 담배를 피워서는 안됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00327.wav|굿모닝! 오늘도 좋은 하루 보내보입시데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00694.wav|제가 여자 친구 소개해드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00674.wav|삼가 감사의 인사 올립니더. 어무이의 명복을 빌어주셔가꼬 이래 인사를 드립니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00261.wav|그 학원에 유명한 강사는 알고보니 별로더라고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00244.wav|알라용 물은 반입됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00008.wav|친구가 많아도 외톨이인 기분이 들 때가 있데이. 내도 안다.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00308.wav|지금은 잠시 떨어져 있다카지만, 곧 다시 만날 껍니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00636.wav|감사합니데이. 저도 기분이 좋아지네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00110.wav|개안습니더. 아무렇지도 않습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00415.wav|환자가 목을 다치지 않았다면 턱을 들어 올린 뒤에 힘껏 숨을 불어 넣습니더. 구조대가 오기 전까지 이 과정을 계속 반복해야 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00278.wav|그렇습니꺼? 알아보고 가져다드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00074.wav|제가 생각해도 은행 이자가 억수로 높은 거 같드라고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00334.wav|그 치과는 억수로 최악이었어예! 다시는 안 갈 껍니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00183.wav|우리 서로를 이해해봅시더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00665.wav|혼자서 두 명의 이십사개월 미만 아를 데리고 탈 경우, 보호자가 한 명을 안고 나머지 한 명에 대해서는 통상운임 칠십퍼센트의 소아 운임을 지불해야 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00242.wav|미안하지만 그건 안되겠어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00235.wav|올해를 넘기기 힘들 거 같습니더. 걱정해주셔서 감사합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00221.wav|그라믄, 다음엔 다른 곳에 가보입시더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00345.wav|반갑습니더, 오늘 좋은 하루지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00342.wav|친구들이 그라는데 제가 재미있다캅니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00596.wav|재촉하지 마이소. 저도 지금 최선을 다하고 있어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00216.wav|요즘 여 앞에서 공사 중이라카이 더 그럴 겁니더! 죄송합니더. 근데 저희도 우짤 수가 없네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00397.wav|안녕하십니꺼! 날씨가 너무 더워졌지예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00642.wav|하이고, 반갑습니더. 또 오셨네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00266.wav|네, 언제 입으실 옷인데예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00616.wav|모자와 물, 선크림을 준비해 가꼬 오시믄 좋습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00657.wav|이천십칠년도 하반기 삼성기업 공채에 지원해 주셔가꼬 감사드립니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00202.wav|네, 변경 가능 하지만 별도의 취소 수수료가 있습니더. 변경 도와드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00065.wav|억수로 잘 지내지예! 아도 한 명 낳았으예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00416.wav|현재 좌석이 없습니더, 다른 시간대에 예약이 가능합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00018.wav|많이 실망하셨지예? 죄송합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00279.wav|만나서 반갑습니더!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00254.wav|국가는 돈이 없어가꼬 진료를 받지 못하는 상황을 막고자 응급대불 제도를 마련해 놨으니 안심하이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00381.wav|구매하시려믄 신용카드 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00383.wav|제 직업은 간호삽니더. 당신은예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00229.wav|야구 시즌입니더. 보러 가실래예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00225.wav|당신이 그렇다카니 제 마음도 우울해지네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00520.wav|안녕하세여. 목소리가 마이 안 좋네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00341.wav|저는 전형적인 에이형 성격입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00294.wav|승진 했다믄서예? 축하드립니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00571.wav|벚꽃 날리는 거 보니까 마음이 쪼매 설레네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00206.wav|밤낮을 구별할 수도 있고예, 폐가 성장해 가고 있으예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00515.wav|부작용을 마이 없애기 위해가 요즘에는 코끝에 자가연골을 이용해가 수술합니더. 요걸로 선택하시겠슴니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00311.wav|쉐프의 추천은 봉골레 파스탑니더. 억수로 맛있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00519.wav|남자 친구 좀 소개시켜주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00319.wav|예약자분 성함을 알려주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00439.wav|무슨 일이시지예, 손님?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00570.wav|사개월이라고예? 이제 아가 쪼매씩 움직이겠네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00696.wav|다음엔 저랑 같이 가예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00417.wav|눈썹도 다듬어 드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00525.wav|휴가 땐 어데 갈 예정입니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00150.wav|그거는 쪼매 곤란할 거 같네예, 저 만나는 사람 있으예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00200.wav|네, 반갑습니더. 이제 여름인가 보네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00154.wav|죄송한데예 쪼매만 참아주시겠습니꺼? 기상 악화로 인해서 기내가 쪼매 흔들리고 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00459.wav|와 주시가 고마웠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00343.wav|우리 백일은 십일 남았네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00155.wav|손발 저림과 부종이 심해지시지예? 밤에 잠도 잘 못 주무시고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00288.wav|네, 고객님. 라운지로 이동해 드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00440.wav|네. 성능도 좋아 보이네예. 멋지네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00375.wav|잘 생각하셨으예. 저도 같은 생각입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00396.wav|휴대폰이나 캠코더로 동영상 촬영을 금지합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00044.wav|페이지를 체크해주시면 제가 일을 하는 데 있어 억수로 수월합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00263.wav|당신도 수고하이소!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00575.wav|불철주야 노고에 감사드립니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00305.wav|다른 시간이 가능하시다면 교육 일정 협의 후 진행 가능합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00597.wav|쪼매 위험한 상황 아닌가예? 구급대에 신고해야 하는 건 아닐까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00098.wav|당장이라도 뛰가뿌고 싶네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00510.wav|혹시라도 경찰에게 적발돼뿠을 때, 요 중 하나라도 없으면 처벌될수 있습니더. 또한 주마다 교통 법규에 차이가 있고, 제한 속도 또한 다르다는 걸 명심해 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00028.wav|옥수수의 제철은 칠월부터 구월입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00238.wav|자! 출석 부릅니데이. 김진철!|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00400.wav|지금은 밀린 업무가 억수로 많아스예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00671.wav|외투 보관 서비스를 이용하실 수 있는 곳은 총 네 군뎁니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00019.wav|저쪽 상품이 제일 인기 상품이긴 한데예. 지금 사이즈가 거의 품절인 상황입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00320.wav|가족이 많으면 불편하더라고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00084.wav|예금과 적금 중 어느 것으로 하시겠어예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00604.wav|고맙지만 마음만 받은 걸로 할께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00210.wav|인명 피해는 없어 보입니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00046.wav|안녕하심니꺼? 접니더, 지니.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00689.wav|꽃 선물을 받고 싶어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00678.wav|이 제품이 불량이라고예? 그럴 리가 없을 텐데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00693.wav|빨간 선 안으로 들어가시모 안됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00484.wav|술을 못 묵는 분은 하지마시고예 묵을 수 있는 분만 건배하입시더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00122.wav|고객님! 딱 맞네예. 너무 잘 어울리십니더. 얼굴색하고도 잘 맞는 거 같아예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00123.wav|크리스마스엔 뭐 하심꺼? 혹시 시간 있으십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00559.wav|옴마나 세상에 마음이 아프시겠어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00099.wav|지금 맑게 개었습니더. 구름 한 점 없는 날씨예. 무지개 뜰 수도 있겠는데예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00697.wav|마음에 드셨다카이 다행이네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00078.wav|웨이브를 넣어드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00299.wav|사직 이유가 뭐니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00265.wav|네. 룸 키를 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00544.wav|하모 알지예, 저도 홈트합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00130.wav|이번 달 말까지예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00564.wav|네. 지금 밖에는 소나기가 오고 있습니더. 우산 챙겨 나가이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00395.wav|엘리베이터 떨어지는 거 아닌가예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00502.wav|오늘 요리에 만족하세예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00423.wav|왜장을 껴안고 남강에 뛰어든 논개 때문에 유명해진 촉성루를 보러 진주성 안으로 들어갈께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00425.wav|다음 주까지 포트폴리오 제출하이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00348.wav|그거는 천구백팔십년 오월 십육일에 일어난 사건입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00270.wav|수하물에 손상이 있었을 경우에는 수하물을 인도 받으신 날로부터 칠일 이내에, 수하물이 지연 또는 분실된 경우에는 항공사에 수하물을 위탁하신 날로부터 이십일일 이내에 항공사에 서면으로 신고하셔야 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00695.wav|손님 마이 불편하셨지예? 대단이 죄송합니더. 다음번에 또 들려주시믄 저희가 서비스로 파스타를 대접하고 싶습니더. 괘않겠습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00144.wav|탱고의 나라 아르헨티나에서는 여행객한테 물이나 음료를 쏟아뿌고, 이거를 닦아 준다카믄서 접근해뿌는 소매치기범이 많습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00226.wav|말레이시아는 늘 덥습니더. 아무때나 가셔도 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00623.wav|불만이 마으시네예, 마음을 침착하게 묵으이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00142.wav|그라믄, 십프로 할인해드릴께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00675.wav|가족들하고 다퉈가꼬 밖에 혼자 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00568.wav|들어있는 내용물이 뭡니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00529.wav|아이다 다 잊었다.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00651.wav|대기 중 모자, 선글라스는 벗으시고 휴대폰 통화는 자제해 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00086.wav|죄송합니다, 고객님. 아직 정식으로 채용된 직원이 아니라 그렇습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00488.wav|문단속 잘 하시라예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00136.wav|그래도 그 직원은 친절하던데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00634.wav|세계인들의 사랑을 받는 신들의 섬 발리에는 럭셔리한 풀빌라가 잘 발달돼 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00090.wav|또한, 베트남에는 가짜 택시가 억수로 많아가, 미터기 조작 및 범죄에 노출될 수 있으니까 공인된 택시만 이용해 주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00267.wav|네, 고객님. 그날 더 신선한 재료를 선별해 요리하기 때문에 사진하고는 쪼매 차이가 있을 수도 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00340.wav|최근 기술 중 하나를 선택해가꼬 영업사원이 되서 저희한테 팔아 보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00036.wav|여서 오 분 거리에 있어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00114.wav|맞아예. 저도 슬프더라고예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00017.wav|애완견 키우기에 딱 좋은 아파트가 있으예. 주변에 동물병원과 애견 카페도 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00283.wav|엄마야! 동안이네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00330.wav|위반 시 범칙금 십삼만 원, 십삼세 미만 육만 원이 부과됩니더. 육세 미만 카시트 미착용 해뿌믄 범칙금 육만 원이 부과됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00043.wav|고객님! 아랑 함께 하는 여행 억수로 불편하시지예? 지금 비즈니스 자리로 안내 해드려도 될까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00240.wav|술에 취해뿌가꼬 함부로 말씀하시면 쪼매 있다가 후회하게 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00314.wav|저렴하고 지내기 편한 집 좀 소개해주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00047.wav|예, 고객님. 가능합니더. 짐은 로비에 맡겨주시고예, 수영하고 나서 샤워는 사우나에서 하시면 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00181.wav|저도 억수로 보고 싶어 죽겠으예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00668.wav|네, 고객님. 유해 성분이 없어서 알라랑 써도 무방합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00561.wav|네, 저희 매장에서는 이 상품이 끝입니더. 죄송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00637.wav|감사합니데이. 당신 덕입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00436.wav|주 오일제에서 주말 전 금요일을 불타뿌는 금요일, 즉 줄임말로 불금이라꼬 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00284.wav|이 일은 도저히 용납할 수가 없습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00152.wav|가시가꼬 좌회전 하시믄 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00109.wav|작품에는 절대로 손을 대시면 안 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00249.wav|필리핀에서는 한국인을 상대로 한 범죄가 자주 일어납니더. 특히 현금을 많이 가꼬 댕기면 소매치기에 노출될 수 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00449.wav|알라와 노약자 할인이되가 삼백만 원입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00496.wav|하모 괘않아예. 용서해주께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00555.wav|아들이요? 건강하길 기도하겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00253.wav|저도 의견을 좀 내도 될까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00601.wav|결혼과 직업이 꼭 상관있을까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00448.wav|아라비아 숫자는 우리가 사용하고 있는 숫자 일, 이, 삼, 사, 오, 육, 칠, 팔, 구, 영을 의미합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00399.wav|가시는 날짜를 입력해주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00037.wav|전 그 영화 억수로 재밌었는데예, 주인공도 멋있었어예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00609.wav|그래 말해준다카이 제가 더 감사합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00699.wav|신혼 생활은 어때예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00176.wav|네, 그람요. 수화물표도 발급 가능합니더, 고객님.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00390.wav|저는 점심시간 때 요가하고 옵니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00184.wav|삼백육번 버스는 길 건너편에서 탑승하시면 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00465.wav|아임니더! 괘않습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00366.wav|캐리어를 여 올려주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00523.wav|다 드신 접시는 치워드려도 될까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00511.wav|물류에서 도전, 소통, 열정 중에 뭐가 가장 중요하다고 생각헙니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00230.wav|죄송한데예 이 제품은 고객님 과실입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00451.wav|십일월 비행기 표는 모두 예약 완료됐습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00507.wav|정말 반가워예. 오데 가가 차 한잔하까예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00654.wav|낭비해버린 시간에 대해 후회하고 있습니꺼? 이제라도 서두르이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00304.wav|시드니 오페라 하우스는 이십세기를 대표하는 현대 건축물로 요트의 돛과 조개껍데기를 모티브로 한 아름답고 우아한 외양이 특징입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00148.wav|훌륭했으예! 또 먹어보고 싶네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00092.wav|우리끼리 하는 얘기지만 여 가격에 비해 쪼매 별론 것 같네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00127.wav|구겨지거나 찢어진 돈은 절대 사용할 수 없다는 거 유의해주셔야 합니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00215.wav|네. 예약 확인 도와드리겠습니더. 성함이 어트게 되십니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00058.wav|가위는 반입이 안됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00094.wav|부모님께 죄송하다고 말씀드려 보는 건 어떻습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00180.wav|올가을 유행한다카는 남자 헤어스타일은 쉐도우스핀펌입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00335.wav|지금 당신 통장엔 금액이 없어가꼬 물건 구입은 어렵겠는데예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00275.wav|일번 창구로 가이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00446.wav|철수의 심리가 매우 안정돼가 있지 않은거 같아예. 한번 심리 검사를 받아보실라예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00607.wav|네. 타이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00686.wav|면접 잘 보시기를 기도하겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00437.wav|그 상품 계산하실라꼬예? 저한테 하시모 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00541.wav|저는 지금 인천에 와 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00489.wav|하모 하모, 밥묵고 드시라예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00102.wav|연착으로 인해 다음 비행기를 놓치시뿌면 저희 항공사에서 호텔을 제공해 드리고예, 다음 비행기 편으로 탑승하실 수 있게 연결해드리고 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00614.wav|테니스 마니 힘들다 카든데 어떤가예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00593.wav|네. 알겠습니더. 그 날은 팔만 원입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00291.wav|그렇습니꺼? 그라믄 호텔 내에 가습기가 구비되어 있습니더. 올려다 드릴까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00667.wav|말씀 많이 들었는데 이래 보니 억수로 반갑네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00521.wav|제가 오해하게 해뿠네예 지송합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00187.wav|저도 운동하고 싶네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00643.wav|고객님! 앱에 나와 있는 상단 프로필을 클릭해주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00629.wav|세상에 지금까지 하신 겁니꺼? 이제 좀 쉬시라예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00373.wav|이런! 신경이 다 죽었으예. 임플란트를 해야 할 것 같네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00277.wav|아이예, 오늘은 피곤해예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00387.wav|그라믄요, 입어보셔야지예, 이쪽으로 오이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00317.wav|예방접종에 필요한 시간적 여유가 있어야 되니까 여행 출발 십오일 전에는 방문하셔야 됩니더. 말라위로 가시는 경우 예방접종은 장티푸스, 황열, 그리고 말라리아 예방약 등이 필수적입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00473.wav|함께 춰야 신나뿌는데예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00530.wav|어마이가 너무 미인이세예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00179.wav|네, 그쪽으로 가시면 됩니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00389.wav|저한테 이런 일이 생겼다는 게 믿어지지가 않아서예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00313.wav|음료를 내올까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00392.wav|안녕하십니꺼! 낙엽 떨어진 거 보셨으예? 가을인가 봅니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00193.wav|손님 차롑니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00577.wav|상담사를 연결해드리겠습니더. 상담사와 연결 시 통화내용이 저장됨을 미리 알려드립니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00468.wav|크리스마스라 그런지 다 연인들이네예! 우리도 그라케 보일까예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00586.wav|그쪽이랑 이야기할 수 있어서 정말 기뻐예. 그 쪽하고 대화는 언제나 즐겁습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00188.wav|콧대에는 실리콘이나 고어텍스 같은 인공보형물을 사용할 수도 있고예, 인공 진피 지방이나 자가 진피 지방을 사용하기도 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00055.wav|가는 이중국적입니더. 영국과 이탈리암니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00386.wav|가방이 마지막으로 어디에 있었습니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00048.wav|그라믄 이 반지는 어떠십니꺼? 송혜교가 차고 나와가 인기상품입니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00584.wav|이용 가능 시간은 오전 일곱시부터 오후 일곱시까집니더. 감사합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00068.wav|억수로 힘든 하루를 보냈네예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00679.wav|이십년이나 됐습니꺼? 기념일 경축 드립니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00125.wav|황사 때문에 억수로 기침이 심해집니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00318.wav|시간이 와 이래 빨리 가는 겁니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00563.wav|또한, 자동차 트렁크에 짐을 넣어뒀을 경우, 목적지에 도착해서 이를 안 내려주고 그냥 가뿌는 경우도 가끔 있다 칸답니다.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00324.wav|고객님! 먼저 예약 확인을 도와드리겠습니더. 예약 번호는예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00685.wav|죄송합니더. 바로 에이에스 해 드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00009.wav|여가 맛집이라더니 진짠가베.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00262.wav|어디가 좋을지 한번 찾아볼께예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00204.wav|그 사람 말을 귀 좀 기울이고 받아들여 보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00393.wav|고객님! 당연히 변경 가능 합니더. 빨리 도와드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00213.wav|네, 비상약이 있는지 함 찾아보겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00460.wav|만나자마자 헤이지뿌네예, 다음에 또 뵈예.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00186.wav|중국은 제네바 협약국에 속해있지 않기 때매 국제 운전면허증이 있다카더라도 운전을 할 수 없습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00463.wav|죄송함니더, 얼룩 바로 지워드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00115.wav|시곕니더. 한번 착용해 보이소. 마음에 드실 껍니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00369.wav|그 자동차 지금 인기 아입니꺼?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00549.wav|매독 이상의 질병들은 대부분 예방 가능한 것이므로 여행 전에 미리 여행의학 클리닉을 찾아가 필요한 예방접종 및 주의사항들을 준비하시는 것이 반드시 필요합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00447.wav|스노쿨링 시에는 자외선 차단제를 꼭 발라주시이소. 햇빛이 따가와가 화상을 입기도 합니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00256.wav|아이예. 무룝니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00352.wav|네, 내리가꼬 빨간 버튼을 눌러주이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00143.wav|다들 공항서비스에 주로 지원했는데, 공항서비스에서 와 본인이 일해야 되는지 말씀해보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00177.wav|억수로 아름다우십니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00117.wav|글쎄예. 결과를 한번 기다려 보이소.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00113.wav|한진택배는 삼층 체크인 부근에 있고, 대한통운은 일층 일번 출입문 부근에 있습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00118.wav|예. 대신 이번 한 번 뿐입니데이.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00205.wav|안내 책자를 첨부해드리겠습니더.|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00091.wav|그래예? 은제부터예?|pfo|0|0
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00470.wav|자동차로 약 십오분 걸립니더. 지금 길이 조금 막히니까 인내심을 가꼬 가시라예.|pfo|0|0

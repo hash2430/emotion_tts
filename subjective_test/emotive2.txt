@@ -1,0 +1,10 @@
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00240.wav|도라가시 나버지가 이 모스블 보셔쓰면 얼마나 조아하셔쓸까|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00241.wav|병워네 누워계시 너머니를 떠올리면 가스미 무너저 내리는 건만 가타|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00242.wav|우리 하라버지는 언제쯤 붕녀케 고향 땅을 발바보실 쑤 이쓸까|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00243.wav|힘들게 준비한 공모저닌데 발표를 연기한다니 정말 맥빠진다|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00244.wav|널 기다리는 걷또 지처써 이제 그만 도라와쓰면 조케써|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00245.wav|친구드 라페서 괜차는 처카는 걷또 이젠 힘들다|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00246.wav|너를 떠올리면 마음 한구서기 쓰라리고 아프다|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00247.wav|어쩔 쑤 업씨 끈치 모타느 닌간관계 때무네 지니 다 빠진다|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00248.wav|혼자서 외로운 건 차믈 쑤 읻찌만 두린데도 외로운 건 두 사람 모두에게 부랭이야|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00249.wav|그동안 미아낻따 이제 그만 너를 노아줄께|neb|1

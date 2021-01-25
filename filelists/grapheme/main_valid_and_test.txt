@@ -1,0 +1,22 @@
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy08899.wav|그래요? 어쩔 수 없죠.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy06244.wav|김영란법도 몰라? 더치페이해.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy02031.wav|저 만나는 사람 있는데, 죄송하네요.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy12435.wav|내 생애 최고의 생일이었어, 고마워.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy07477.wav|다 가져가세요. 목숨만 살려주세요.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy10406.wav|몇 호선에서 그런 일을 겪으셨나요?|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy09950.wav|주인 재량으로 깎아주세요.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy12430.wav|막상 내일 떠난다고 하니 섭섭하네요.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy04877.wav|도보 5분 걸립니다.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy07429.wav|처음 음악회에 갔을 때 박수를 언제 쳐야 할지 몰라 난감했던 적이 있어요.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy10505.wav|내 인생에서 후회는 없어.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy01842.wav|아라비아타 소스는 마늘, 토마토, 고추 등을 올리브유에 조리하여 만드는 매운 소스다.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy12676.wav|사무실에서는 개인 통화를 자제해주세요.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy09257.wav|만 5세 이상, 12세 이하일 경우 성인요금이 적용됩니다.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy02688.wav|이직하셨다면서요? 더 좋은 회사 맞죠? 축하드려요.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy11088.wav|필름 사진 인화하려면 한 장당 얼마죠?|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy10833.wav|조직 사회에서 가장 중요한 것 역시, 소통능력이라고 생각합니다.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy05043.wav|만족도 10점 만점에 몇 점 주시겠습니까?|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy08479.wav|난 피 터지게 공부해서 서울 안에 있는 대학 갈 거야.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy04623.wav|여러분이 수고가 참 많으십니다.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy01157.wav|이것을 만든 커트 오토 프리드리히 이후 프리드리히 완화제로 불렀어요.|Main|0|0
+/data/sunghee/selvas_wav/Main/wav_trimmed_22050/lmy00829.wav|《아가씨와 건달들》을 보고 뮤지컬 배우의 꿈을 키웠고 서울예술대학 실용음악과에서 학사 학위를 받았습니다.|Main|0|0

@@ -1,0 +1,70 @@
+/mnt/sdd1/korean_public/wav_22050/fx03/fx03_t03_s01.wav|이 그를 일거 줄 네가 누구인지 나는 모른다.|fx03|1
+/mnt/sdd1/korean_public/wav_22050/fy14/fy14_t09_s12.wav|용왕니미 시나드를 둘러보며 마래써여.|fy14|1
+/mnt/sdd1/korean_public/wav_22050/fx17/fx17_t14_s14.wav|그러더니 아주머니는 구겨진 처 눤짜리 한 장을 건네주얻따.|fx17|1
+/mnt/sdd1/korean_public/wav_22050/fx18/fx18_t12_s01.wav|어느 기픈 산고레 오누이와 어머니가 살고 이써써여.|fx18|1
+/mnt/sdd1/korean_public/wav_22050/fx18/fx18_t02_s04.wav|벌써 며칠째 소녀는, 학꾜에서 도라오는 기레 물짱나니얻따.|fx18|1
+/mnt/sdd1/korean_public/wav_22050/fx13/fx13_t04_s35.wav|생가칼쑤로 콰가 낟따.|fx13|1
+/mnt/sdd1/korean_public/wav_22050/fx04/fx04_t08_s21.wav|장날 저녀근 정애 노코 계지베 고함 소리로 시작뙤는 거시다.|fx04|1
+/mnt/sdd1/korean_public/wav_22050/fy04/fy04_t17_s18.wav|한구기는 한 거름 더 나아가 숭늉을 마시는 풍스블 창조해 낻따.|fy04|1
+/mnt/sdd1/korean_public/wav_22050/fx06/fx06_t09_s50.wav|용왕니믄 토끼에게 마는 보서글 주어써여.|fx06|1
+/mnt/sdd1/korean_public/wav_22050/fx06/fx06_t05_s23.wav|그러니까 리듬, 심상, 구조 등이 시에 기버빈 세미다.|fx06|1
+/mnt/sdd1/korean_public/wav_22050/mw09/mw09_t19_s28.wav|이러케 해서 또 하루가 시작뙨다.|mw09|1
+/mnt/sdd1/korean_public/wav_22050/fx14/fx14_t14_s27.wav|어느새 후누내진 내 가슴소게 오래오래 맴돌던 마리얻따.|fx14|1
+/mnt/sdd1/korean_public/wav_22050/fx01/fx01_t06_s05.wav|다만, 현실마늘 위하여 산다.|fx01|1
+/mnt/sdd1/korean_public/wav_22050/fx01/fx01_t19_s07.wav|진종일 신경이 따믈 흘리는 고통스러운 생지오기 아닐 쑤 업따.|fx01|1
+/mnt/sdd1/korean_public/wav_22050/fx07/fx07_t04_s40.wav|지베 인는 걷뽀다 참 조타는 거시다.|fx07|1
+/mnt/sdd1/korean_public/wav_22050/fx07/fx07_t06_s31.wav|그 한 가지는 노려기니, 노려근 두 가지 며네서 생가칼 쑤 읻따.|fx07|1
+/mnt/sdd1/korean_public/wav_22050/fx09/fx09_t02_s06.wav|소녀는 개울두게 안자 버렫따.|fx09|1
+/mnt/sdd1/korean_public/wav_22050/fx05/fx05_t16_s07.wav|난 누늘 마즈며 속쑤무채그로 서 이썯따.|fx05|1
+/mnt/sdd1/korean_public/wav_22050/fx20/fx20_t14_s13.wav|“그러면 지베 갈 차비도 업껜네.”|fx20|1
+/mnt/sdd1/korean_public/wav_22050/fx11/fx11_t16_s06.wav|공사하느라 파 노은 구덩이에 빠저 버린 거시얻따.|fx11|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00321.wav|반갑씀니더 기다리고 이썯씀니더|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00551.wav|외교부 영상미눤실로 가이소 출짱 가튼 공무 외에 유학 뜽 개인저긴 긴그판 사정에 따라 단수여꿔늘 만들 쑤 읻씀니더|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00059.wav|여 쉐프 진짜 까리한 거 간네예|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00565.wav|친구들 말로는 내는녀 덤벙거린다카네여|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00618.wav|그 사라미 당시늘 아라주지 안는다고 해서 불평아지 마라예|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00252.wav|중앙대 입꿈니더 내리실 무는 오른쪼김니데이|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00587.wav|다이어트 비뻐블 공유해주이소|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00567.wav|겨우 라면 스키아님니꺼 스키장 가실래예|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00640.wav|후회할 껃 깓씀니더|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00292.wav|귀에 염쯩이 생견네예|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00512.wav|사과에 의미로 칵테이 란잔 드리도 괘안켇씀니꺼|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00552.wav|그럴 쭈 라라써예 차근차근 오해를 푸러보이소|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00166.wav|전다래 드리겓씀니더 어떤 메씨짐니꺼|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00064.wav|영와 억쑤로 재미 업씀니더 도 나까워 죽껜네예|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00298.wav|의사 쌔미 이래 불친저란 건 처으미얻씀니더|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00672.wav|조아하느 늠시근 뭐가 이써예 말씀마 내주이소 제가 바로 요리를 해드림니더|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00533.wav|네 다으멘 꼬 카입씨더|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00293.wav|야구 자 라는 남자 먿찐 거 가타예|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00158.wav|저 남자친구랑 헤어지뿐는데 다른 사람 소개해 주이소|pfo|1
+/mnt/sdd1/selvas_wav/pfo/wav_trimmed_22050/pfo00625.wav|아징 모 내봐쓰예 당시는 해 보셔써예|pfo|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00391.wav|제 마으 미해하시지라|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00561.wav|저 지금 막 퇴그낸는디여 왜여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00179.wav|오후 한시꺼정 도차커셔야 함니다|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00425.wav|알고봉게 딴 사라믈 만나고 읻떠라고여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00234.wav|예 이짜그로 와서 안즈시여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00545.wav|검나 부럽씀니다|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00392.wav|검나게 귀엽꾸만녀|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00377.wav|그동안 그라고 고생아션는디 다행이네여 저도 기쁘네여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00042.wav|그거시 너무 어려운 냐근디|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00292.wav|용서해 주시믄 지가 영와 보여 드리께라|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00222.wav|지 어떤 저미 그짜글 실망스럽께 해쓰까여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00624.wav|어쩔 쑤 읻깐디여 뭐|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00277.wav|예 안녕아세여 인자 여르민감네여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00257.wav|그거슨 모터건는디여 죄송엄니다|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00356.wav|네 이써라 이짜그로 오세여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00126.wav|양보허기 시른디요|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00515.wav|검나 개구쟁이라고 드러써여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00248.wav|예 우리가 솔차니 자 러울리는거 가티여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00296.wav|손님 여뉴 기가니어가꼬 예야기 다 차씀니다|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00302.wav|미아넌디 고러케는 난되건는디여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00445.wav|고소한 마신디 매운 마슬 쪼까 더 너어 드리까여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00087.wav|예 여그서 허시믄 됨니다|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00301.wav|술 취핻따고 함부로 말쓰머시믄 난중에 후회험니다|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00675.wav|요 제푸미 불량이라고여 그럴 리가 업쓸 껀디여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00101.wav|지는 뚱뚱안 펴닌디 그짜근녀|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00238.wav|아직또 혼자신게라 아직또 몬 니저써여|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00005.wav|수믄 쉬고 계시지라이|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00457.wav|글지라 그거이 진짜 중요허저|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00480.wav|글지라 웹 쏘설도 장느가 다양어저|pfp|1
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00027.wav|어째 그러신다요 고거슨 비미리어라|pfp|1

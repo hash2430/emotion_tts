@@ -1,0 +1,10 @@
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00110.wav|해외여행은 처으미라 엄청나게 들떠이써|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00210.wav|친구들 지비나 전저나는 내 신세가 너무 처량아다|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00310.wav|최소한 반성에 기미는 보여야 하는 거 다님니까|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00120.wav|너 진짜 조은 노미구나|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00220.wav|그녀가 다른 남자와 겨로늘 하다니 하느리 무너지는 걷 까타|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00320.wav|조어늘 해줘도 드른 척또 아 나고 이쓰니 답따파다|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00130.wav|작까가 욷끼려고 작씨맨나 봐 이거 진짜 배꼽 빠지겓따|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00230.wav|차라리 내가 대시 나파쓰면 조켇따|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00330.wav|여기저기 시비 거는 놈드른 아예 상대하지 마라야 해여|neb|1
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00140.wav|나를 위해 이런 걸 다 준비핻따니 정말 감동이야|neb|1

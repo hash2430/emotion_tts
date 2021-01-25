@@ -1,0 +1,1 @@
+/mnt/sdd1/selvas_new_emotion/ner/wav_22050/ner00336.wav|있잖아요, 오늘은 일월 오일 화요일이거든요.|ner|3|3

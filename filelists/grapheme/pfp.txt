@@ -1,0 +1,696 @@
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00139.wav|지한티 요런 날이 오다니 참말로 감사허요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00045.wav|저는 그 영화 겁나 재밌든디 주인공도 멋있고요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00268.wav|중국은 제네바 협약국에 속하지 않아갔고 국제 운전면허증이 있다고 혀도 운전을 못헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00623.wav|참말로, 분노의 대상이네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00295.wav|재채기는 몸 안에 있는 먼지를 밖으로 꺼낼라고 허는 거예요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00047.wav|추우시믄 히터 틀어드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00197.wav|아니요! 지는 그짝보고 뭐라고 허고 싶지 않어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00578.wav|예. 인자는 건강하게 생활허고 있다드만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00206.wav|저는 가수가 되는 게 꿈이어라. 노래 부르는 것이 참말로 신나요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00187.wav|건강보험심사평가원 홈페이지에서 확인허시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00699.wav|배달 가능헙니다. 한 삼십분 정도 걸릴거 같은디 기다리실라요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00520.wav|유명 사진작가가 되브렀다고 하더라고요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00055.wav|굿 모닝, 좋은 하루 되세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00122.wav|핵교는 종암동에 있어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00363.wav|그라믄요. 마음에 드시는 건 다 입어보셔도 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00438.wav|또 비양심적인 업주나 택시 운전사들이 여행객들의 페소가 진짜인지 살피는 척하다가 진짜 돈을 위조지폐로 바꿔 가는 경우도 많응게 주의허세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00193.wav|화낼만 허죠!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00039.wav|지가 이 노래를 겁나 좋아하거든요! 마음이 슬퍼지는 노래여.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00391.wav|제 마음 이해하시지라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00447.wav|예, 고객님. 근디 해외에서 오실 때랑 해당 국가 입국 허실 때, 왕복 항공권을 요구헝게, 티켓을 인쇄해가꼬 가시는게 불편이나 시간의 소모를 줄일 수 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00561.wav|저 지금 막 퇴근했는디요? 왜요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00384.wav|현재 좌석이 없기는헌디, 다른 시간대에 예약이 가능헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00142.wav|저는 태음인이어가꼬 살이 잘 찐당게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00179.wav|오후 한시꺼정 도착허셔야 합니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00502.wav|오메! 자궁에 근종이 있네요. 언능 수술해야 헐 것 같습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00425.wav|알고봉게 딴 사람을 만나고 있더라고요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00234.wav|예. 이짝으로 와서 앉으시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00545.wav|겁나 부럽습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00244.wav|열시 이십분인디요. 구십이분 남았습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00638.wav|어메 안녕하세요. 또 오셨네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00377.wav|그동안 그라고 고생하셨는디 다행이네요. 저도 기쁘네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00628.wav|이, 그럼요. 정확한 시간입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00054.wav|굿 이브닝, 하루 마무리 잘허시고.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00647.wav|그 날은 목요일이네요. 알람을 맞춰놓을께라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00392.wav|겁나게 귀엽구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00328.wav|저렴허고 지내기 편한 집 좀 소개해주시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00506.wav|지금 코디 하신 것도 멋진디 그거 말고 다른 스타일은 으뜨시요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00004.wav|차 안에 창문 깰 만한 것이 있당가요? 읍쓰믄 시트 목 받침대를 뽑아브쇼.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00606.wav|남을 비난허는 것은 좋은 일이 아닙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00496.wav|그 영화는 시간이 아닌 타임슬립에 관한 영화여.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00531.wav|그 길은 막혀브렀어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00292.wav|용서해 주시믄 지가 영화 보여 드릴께라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00042.wav|그것이 너무 어려운 야근디.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00149.wav|구겨지거나 찢어진 돈은 절대 사용헐 수 없다는 거 유의해주셔야 헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00048.wav|글씨, 그짝부터 말허시오. 허기에 달렸응게.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00030.wav|뭣을 도전해본 경험 중에 기억에 남는 것이 있으면 말씀 쪼까 해보시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00567.wav|시방 겁나 흥분돼요. 지가 일등을 해요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00324.wav|승진 하셨다믄서요? 축하드려요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00236.wav|예, 현금허고 통장을 주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00613.wav|염려가 많것네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00022.wav|우리가 초면이요? 안녕허시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00222.wav|지 어떤 점이 그짝을 실망스럽게 했을까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00366.wav|저는 아이돌 음악 좋아해요! 좋아하는 걸 그룹 있으신가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00319.wav|단속 카메라 단속 범위 확대가 기존 아홉가지에서 다섯가지 항목을 더해가꼬, 총 열네가지 항목으로 늘어납니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00309.wav|블로그에서 인기던디 으뜨셨어요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00602.wav|괜찮습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00443.wav|문단속 잘 허세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00694.wav|손님, 많이 불편하셨지라? 대단히 죄송헙니다. 다음번에 또 들려주시믄 저희가 서비스로 파스타를 대접허고 싶은디 괜찮으시것습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00655.wav|말해 뭐한당가요! 겁나 잘 지내고 있지라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00239.wav|이, 맞아요! 지가 잘못 계산했네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00143.wav|볼링은 재밌소? 한 번도 해본 적이 없어가꼬.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00624.wav|어쩔 수 있간디요, 뭐.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00257.wav|그것은 못하것는디요. 죄송합니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00340.wav|지금 통장에 금액이 안남아 있어서 물건 구입이 어렵것는디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00265.wav|애기가 겁나 예쁘네요. 저희 항공사에 키즈 팩 서비스가 있는디, 드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00492.wav|암만봐도 그것은 아닌 것 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00277.wav|예, 안녕하세요. 인자 여름인갑네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00431.wav|시립 미술관에 반고흐 작품이 들어왔다는디 가까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00021.wav|그 사람허고 인자 막 헤어지고 오는 길인디요. 시방 맴이 찢어지요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00424.wav|굿모닝! 인자 봄인가 보네요. 꽃들이 피었구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00597.wav|원허시는 날짜엔 가능한 좌석이 없는디, 다른 날짜로 변경해가꼬 예약해 드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00072.wav|여그 시방 종론디요, 사람이 겁나게 많아브러요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00440.wav|삼백불은 대한항공 비행기 이용헐 때 쿠폰으로 사용하실 수 있으신디, 괜찮으시것습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00598.wav|아니요! 쪼까 틀린디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00191.wav|집들이에 필요한 물건은 없으시요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00689.wav|저는 세계적으로 유명한 피아니스트가 되고 싶어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00356.wav|네, 있어라. 이짝으로 오세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00562.wav|예, 저희 매장에선 요 상품이 끝이어요. 죄송헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00677.wav|두 시간 후에 시작헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00418.wav|독감 주사 맞았어요? 인자 곧 추워질 텐디.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00503.wav|아따, 오랜만이네요이.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00358.wav|또, 중앙선의 색상이 흰색이어가꼬 일본에서 처음 운전허는 분들은 헛갈릴 수 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00406.wav|오늘 공부 안하믄 내일 시험은 망치게 될 것이요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00452.wav|오메, 오늘은 겁나 춥네요. 핫팩 하나 주머니에 넣고 외출허시는 건 어떨까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00434.wav|안녕허세요! 수업 언제 시작헝가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00683.wav|수술 방법은 크게 개방이랑 비개방으로 나뉘는디요. 으뜬걸로 하시것습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00078.wav|머리는 괜찮으셔요? 어제 많이 드신 것 같은디.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00315.wav|예, 고객님. 그날 더 신선한 재료를 선별해가꼬 요리헝게 사진과는 다소 차이가 있을 수도 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00152.wav|음식이 참말로 훌륭허네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00126.wav|양보허기 싫은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00171.wav|그래도 그 직원은 친절하던디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00018.wav|가방허고 캐리어, 주머니에 들어가 있는 것들은 싹 다 담아주셔이.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00169.wav|구명조끼는 꼭 착용해주세요. 한 명이라도 미착용하믄 배가 안떠나 봅니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00515.wav|겁나 개구쟁이라고 들었어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00532.wav|으찌요? 인자 그 분도 많이 힘든 것 같은디.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00323.wav|그라요? 그라믄 호텔 내에 가습기가 구비되어 있는디, 올려다 드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00451.wav|아따 거 신나요이. 더 크게 틀어보시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00587.wav|같이 영화를 보러 갈 수는 없응게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00491.wav|콘서트는 처음 와보는디. 진짜 신나네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00585.wav|임신 삼개월이네요. 입덧허시것어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00192.wav|걱정마셔요. 댁 헌티 인자 더 좋은 일이 생길겅게.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00082.wav|겁나 잘 지내죠! 애도 한 명 낳았당게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00272.wav|동남아시아의 대부분 지역은 수질이 안좋거나, 석회성분이 많은 물이 많응게. 수돗물이나 식당에서 주는 물도 조심해야 합니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00251.wav|제 의견에 반대허시는 분 있으시믄 지금 말씀해주셔요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00036.wav|속상하시겄네요. 근디 결과는 아직 모르니께요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00248.wav|예. 우리가 솔찬히 잘 어울리는거 같이요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00327.wav|현금 인출 시에도 범죄의 표적이 될 수 있응게, 에이티엠 앞에서는 주의를 기울여야 돼요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00107.wav|아따 지가 다 떨리네요! 뭐시라고 고백했는디요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00165.wav|여객터미널 이층 중앙에 있는 국립인천공항 검역소에서는 황열허고 콜레라 예방접종을 헐 수 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00176.wav|요번 주 주말에 파티에 가는 거 잊지 않으셨지라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00569.wav|벚꽃 날리는거 봉께 마음이 싱숭생숭허요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00255.wav|필요에 따라 심폐소생술 등 즉각적인 응급처치를 취하는 거이 환자에게 큰 도움이 될 수 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00148.wav|요 상품은 어떠시요? 요즘 인기 상품인디.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00252.wav|예약 확인 말씀허시는 거네요? 도와드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00296.wav|손님, 연휴 기간이어가꼬 예약이 다 찼습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00398.wav|오른짝입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00428.wav|잘못된 교훈을 가르치는 거라든디, 한번 검색해볼까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00070.wav|아따 겁나 잘 됐구만이라. 앞으로는 다 잘 되실겁니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00508.wav|저는 그 영화 음악이 너무 좋더라고요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00648.wav|화장실이 오른쪽 건물에 있응게, 다녀오실 분들은 시방 다녀오세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00302.wav|미안헌디 고렇게는 안되것는디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00306.wav|예, 감사합니다. 참말로 기분이 좋으요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00125.wav|이짝으로 앉으시것습니까? 두 분 자리는 여그 밖에 안남아가꼬요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00631.wav|아따 참말이에요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00672.wav|오른쪽으로 십미터 간 다음에, 왼쪽으로 오미터 가시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00411.wav|그 산부인과 선상님 참말로 친절하시던디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00397.wav|국내선은 이십사개월 미만의 아이는 무룐디, 꼭 의료보험증이나 주민등록등본을 지참허시길 바랍니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00331.wav|집들이 초대를 해주시믄 기쁠 것 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00548.wav|안녕하세요! 어제 소개팅 한 사람헌티 연락 왔어요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00575.wav|침사추이의 하버뷰는 겁나게 근사합니다. 특히 야경이 더 좋응께 꼭 구경 한번 해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00370.wav|그람요, 입어보셔야죠. 이짝으로 오세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00051.wav|다음 번에 들러주시믄 그때는 고객님이 원허실 때까지 이용 가능허도록 노력허것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00012.wav|여그가 맛집이라드만 진짠갑네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00692.wav|지가 여자 친구 소개해드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00553.wav|길을 잘 못 드신거 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00226.wav|잘 돼브렀네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00426.wav|아닙니다! 괜찮헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00402.wav|저는 땀 흘리며 운동혀요. 그라믄 기분이 상쾌해 지거든요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00386.wav|다음 주까지 포트폴리오 제출허세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00105.wav|그러믄요. 근처에 산책용 유모차가 로비에 있는디, 시방 사용하실 건가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00473.wav|그라믄요. 다 지난 일인디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00637.wav|근디 참아야죠. 별 수 있당가요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00517.wav|열 여덟평은 으떠셔요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00026.wav|코어 운동 위주로 헐랑게.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00079.wav|의자를 발로 차지 마세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00129.wav|그라고 고생하셔서 으찌까이, 힘내세요!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00617.wav|아따, 진짜 시상 좁네요. 혼자 오셨어라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00442.wav|고객님! 속옷은 교환이 불가허다고 계산할 때 양해 말씀드렸는디, 못 들으셨어라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00180.wav|지가 다 감격스러워요. 다 공연장이 떠나가라 손뼉을 치든디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00552.wav|수고허셨어요. 언능 저녁 드세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00332.wav|시간이 뭐 이리 빨리 간데요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00068.wav|마음은 싫은디 어쩔 수가 없네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00182.wav|공기 청정기 켰어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00285.wav|저도 그 약속은 진짜 안지키고 싶어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00080.wav|뭔 영화요? 저도 보고 싶구만이라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00343.wav|용서요? 그걸 으트게 용서한다요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00098.wav|지가 생각해도 은행 이자가 너무 높은거 같던디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00527.wav|다 슨상님의 덕이지라. 감사허요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00445.wav|고소한 맛인디 매운 맛을 쪼까 더 넣어 드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00467.wav|오늘 날씨가 겁나게 춥지 않으요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00076.wav|배고프시죠? 먼저 식사허시고 얘기허시죠.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00620.wav|예, 지금은 가능헌디요! 유럽의 저가 항공사는 이티켓을 인쇄해가꼬 안가믄 삼십유로 패널티를 부과허기도 합니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00504.wav|지금은 좌석이 없는디 다른 시간대엔 예약이 가능헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00270.wav|웨딩드레스가 참말로 겁나 예쁘네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00212.wav|하늘이 퍼런 이유는 빛이 산란해가꼬 가시광선의 영역 중에 파란색 부분 해당 파장을 반사허기 때문입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00138.wav|시간 있으시믄 지 고민 상담 쪼까 들어주실라요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00681.wav|여그는 맛있는디 웨이팅이 겁나 길어요. 글지라이?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00087.wav|예, 여그서 허시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00032.wav|겁나 실망하셨지라? 죄송합니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00338.wav|변경 불가합니다, 고객님. 현재 가능헌 좌석이 없습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00601.wav|맴이 어둡고 가슴이 답답한 상태를 흔히 우울허다고 헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00242.wav|안녕하세요? 뭐 타고 오셨대요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00162.wav|화딱지났지라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00373.wav|안녕하세요! 낙엽 떨어진 거 보셨어라? 인자 가을인갑소.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00627.wav|불만이 많으시구마! 맘을 침착하게 먹으야재.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00218.wav|아따 날아갈 것 같으요. 진짜 감사허요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00610.wav|운동화는 멋진디 다음에 구입허시는 게 나을 거 같은디요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00301.wav|술 취했다고 함부로 말씀허시믄 난중에 후회헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00209.wav|어제는 이미 지나갔응게 잊어부러요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00664.wav|이짝에 있구만요. 절 따라오세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00483.wav|싫은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00297.wav|서울에 위치허고 있는디 오늘 그짝으로 가시나요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00221.wav|시방 나온 곡이 신곡인갑네요! 좋은디요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00417.wav|괜찮해요. 신경써주셔서 고맙습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00676.wav|너무 가차이 가지 마세요. 실제로 사진 찍으시다가 절벽으로 떨어지신 분이 계싱게.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00020.wav|밴갱 할 시간이 지나브렀어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00427.wav|엠비티아이 테스트 해보셨능가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00146.wav|당연한 말씀이지라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00675.wav|요 제품이 불량이라고요? 그럴 리가 없을 건디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00551.wav|그동안 수고 많으셨습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00247.wav|제 키는 백칠십쎈티미턴디요. 그건 뭐헌다고 물어본다요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00339.wav|거그 치과는 참말로 최악입디다! 다시는 안 갈라요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00522.wav|바닷가에서는 요 노래가 딱이지라, 틀어드릴게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00342.wav|안녕하셔요. 여그는 서비스 팀입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00188.wav|가시는거 보고 갈랑께 먼저 가시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00593.wav|면접 잘 보셨어라? 이번엔 꼭 취업하실 수 있을 겁니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00088.wav|겁나 힘든 하루를 보내셨네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00101.wav|지는 뚱뚱한 편인디 그짝은요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00680.wav|주변을 둘러보세요! 긴 줄이나 긴 막대는 없능가요? 혹시 도구가 없이 뛰어들어야 하믄 익수자의 등 뒤로 돌아가서 한쪽 팔이랑 목, 어깨를 휘어 감으세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00118.wav|긍게 대학 병원의 응급실 이용이 필요헌지 점검해 볼 필요가 있당께요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00108.wav|안되겠구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00266.wav|삼백육번 버스는 길 건너편에서 탑승허시면 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00106.wav|그럼, 수업 시작하것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00615.wav|시방 폭설이 내려갔고 가능헌 비행기가 한 대도 없습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00172.wav|예, 월급 명세서를 제출해주시믄 참고허것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00238.wav|아직도 혼자신게라? 아직도 못 잊었어요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00365.wav|병원에 들렸다 오느라 늦었습니다! 죄송헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00416.wav|몇 호선이지라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00059.wav|지금 잠깐 자리를 비우셨는디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00481.wav|안녕허세요! 목소리가 많이 안 좋네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00005.wav|숨은 쉬고 계시지라이?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00326.wav|그럼 완료된 겅게 걱정허지 않으셔도 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00537.wav|예, 고객님. 혹시 문자로 예약 취소가 안 왔습니까? 발리 공항이 폐쇄되가꼬 시방 다 결항이라 변경 가능하다고 문자 드렸었거든요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00479.wav|저도 선물 하나 사야된디.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00646.wav|예, 고객님. 그 상품은 원래는 오만 원인디, 오늘서부터 세일 품목으로 들어가가꼬 이만 오천 원입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00334.wav|예, 그람요. 오늘 들어온 겁니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00075.wav|불만상황을 인터넷에 올려주시믄 처리해 드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00414.wav|겁나게 좋았어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00385.wav|왜장을 껴안고 남강에 뛰어든 논개 땜시 유명해진 촉성루를 보러 진주성 안으로 들어가것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00241.wav|책 상태가 솔찬히 훌륭헌디요. 가격을 높게 측정해드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00538.wav|엄니가 참 동안이세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00507.wav|근디 맘에 드는 물건이 있더라도 절대 만지믄 안됩니다이. 여그서는 뭔 물건이든지 손대믄 다 사야됭께요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00457.wav|글지라. 그거이 진짜 중요허죠.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00401.wav|금방 좋아질 텡께 너무 걱정하지 마시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00665.wav|수동의 경우, 올라가는 방향으로 주차하실 거믄 사이드 브레이크를 채운 다음에 일단 기어에 놓아주시고, 내려가는 방향으로 주차하실거믄 사이드 브레이크를 채운 다음에, 후진 기어에 놔주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00450.wav|호프집에서 일곱 시에 만납시다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00372.wav|저는 점심시간 때 요가허고 와요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00379.wav|그라믄요. 당장 해드릴게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00178.wav|구입 허자마자 고장이라니요, 이거 언능 환불해주시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00592.wav|예, 알것습니다. 그 날은 팔만 원입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00361.wav|잠들기 어렵지라? 배도 뭉치기 시작허시고요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00480.wav|글지라! 웹 소설도 장르가 다양허죠.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00360.wav|저는 참말로 친절하다고 느꼈구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00037.wav|진찰받고 처방전 가져오시믄 더 좋습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00260.wav|암요. 수화물표도 발급 가능헙니다, 고객님.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00482.wav|안 좋은 일을 겪게 되셔가꼬 상심이 매우 크시것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00656.wav|으뜬 건디요? 말씀해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00097.wav|그런가요? 바로 다시 해드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00214.wav|운동화 이쁜디요. 한번 신어보시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00474.wav|인자 찍습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00312.wav|그 학원에 유명한 강사는 알고봉게 별로던데요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00027.wav|어째 그러신다요? 고것은 비밀이어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00369.wav|그러네요. 고객님, 옆 테이블과 혼동이 있었습니다. 참말로 죄송헙니다. 바로 다시 가져다 드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00412.wav|애기랑 노약자 할인해가꼬 삼백만 원입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00378.wav|그라믄, 다시 이 번호로 연락드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00013.wav|요번 십일월부터 기내 수화물 규정이 바뀡게 고것을 참고허시오.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00313.wav|으디가 좋을지 한번 찾아볼게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00653.wav|먼저 계약서 쓰게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00573.wav|저는 그 선상님 강의가 겁나 좋았는디 뭐가 안 좋으셨어요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00658.wav|진짜 구입하실 건 아니지라? 유지비만 해도 엄청나요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00688.wav|여그따 올려주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00371.wav|삼십일 남았습니다. 겁나 멀구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00211.wav|더우시믄 에어컨을 틀어드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00530.wav|전두엽은 대뇌반구 앞에 있는 부분인디, 마루엽의 앞쪽, 관자엽의 앞쪽 윗부분에 위치헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00584.wav|검정 슬랙스가 잘 맞는거 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00639.wav|예, 고객님. 근디 찬물에 빠르게 돌려주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00229.wav|죄송한디 쪼까만 참아주시것습니까? 기상 악화로 인해가꼬 기내가 많이 흔들리고 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00001.wav|안녕허시오! 반갑구만이라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00525.wav|저는 사회복지사가 되는 것이 꿈인디, 그짝은요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00194.wav|예, 응원허것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00651.wav|안녕하세요! 병원 쪼까 다녀와도 될까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00085.wav|긍께요, 딴 나라는 이 정도로 비싸진 않은디.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00471.wav|호주에도 사계절이 있는디, 우리나라 허고는 정반대요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00577.wav|최고 인기 메뉴는 함흥냉면입니다. 한번 드셔 보시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00353.wav|여그는 따로 메뉴판이 없는디요. 설렁탕이 전부에요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00308.wav|저도 의견을 쪼까 내도 될까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00320.wav|층간 소음이 참말로 문제네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00558.wav|그럼요 물론이지라. 서명 부탁헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00095.wav|미세먼지가 많아징께 저 같아도 딴 나라 가서 살고 싶드만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00493.wav|최소 열명 이상의 그룹 구성이나 학교 단위 대상으로 진로 탐색과 직업체험 프로그램이 운영되고 있응게 참고해주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00115.wav|럭키 쎄븐이란 말도 않있소. 칠은 서양서 겁나게 귀한 숫자여라. 칠이 행운의 숫자라고 불리는 것은 성경에서 칠이 완벽한 의미라서 그라지라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00516.wav|저것은 뭐한디 쓰는 물건이요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00460.wav|예. 원허시믄 해 드립니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00682.wav|아따, 땀 많이 흘리시네. 열심히 일하셨나 봐요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00019.wav|인자 오해가 풀리셨능가?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00554.wav|싫당게요. 양보 안헐라요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00349.wav|안녕하시요, 오늘도 좋은 하루지라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00151.wav|요번 달 말까정요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00645.wav|인자 브레이크 타임이어가꼬 한 시간 후에 다시 오픈합니다. 예약해드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00174.wav|그것은 왜요? 한번 검색해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00177.wav|기존의 은행 방문, 인터넷 뱅킹, 계좌이체에 신용카드와 직불카드가 추가되어 납부가 가능헙니다. 가산금은 기존의 오퍼센트에서 삼퍼센트로 경감됐습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00196.wav|그 업체랑 연락이 안 되고 있어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00364.wav|이, 반가워요. 잘 지내봅시다, 우리.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00603.wav|너무 많은디 상실의 시대라는 책 읽어봤어요? 겁나 재밌어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00210.wav|메리어트 반포 말씀허십니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00119.wav|담배 연기 속에는 몸에 해로운 타르라는 성분이 들어가 있는디요, 그 성분이 암을 유발시킨다요. 거그다가 니코틴이 신경 세포들 간의 정보 전달을 방해허구요. 긍게 담배를 피우들 마쇼.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00625.wav|안직도 믿어지지가 않어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00318.wav|위반시 벌칙금 십삼만 원, 십삼세 미만 육만 원이 부과됩니다. 육세 미만 카시트 미착용시에는 벌칙금 육만 원이 부과됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00232.wav|제가 남자친구랑 헤어졌는디 다른 사람 쪼까 소개해 주시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00435.wav|굿모닝. 인제 겨울인갑소잉. 겁나 쌀쌀허네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00274.wav|으디 은행서 출금헐까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00355.wav|저만 이라고 떠는 건 아니것죠?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00217.wav|그짝은 안됩니다. 가지 마세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00409.wav|여그 앉으시것어요? 바깥 경치를 보기 딱 좋은 자린디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00476.wav|지가 잘 찾아갈 수 있어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00132.wav|그라믄요. 저도 슬프더라고요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00160.wav|오늘, 일 마치고 맥주 한잔 어떠요? 요 앞에 분위기 좋은 호프집이 생겼든디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00336.wav|우리나라 말고 다른 나라 으디 가서 살고 싶소?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00657.wav|오메! 안녕하세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00449.wav|그러믄요, 괜찮어요. 용서해 드릴께라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00462.wav|아따 반갑네요. 으디 가가꼬 차 한잔할까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00023.wav|예. 글지라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00201.wav|다들 공항서비스에 주로 지원했는디, 공항서비스에서 왜 본인이 일해야 허는지 말씀해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00067.wav|우리 쪼까만 더 얘기허까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00009.wav|가을비가 옹께 마음이 심란허요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00057.wav|안돼요, 불가능 헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00066.wav|저는 여그 세미나 땜시 왔죠. 그짝은요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00495.wav|복용하는 약을 직접 가져오거나 약봉지를 챙겨가꼬 오는 것이 가장 좋고 약물 복용시간도 체크하는 것을 권장하고 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00403.wav|에이형 간염도 물이나 야채 등으로 감염될 수 있응게 주의해야 헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00081.wav|영화가 겁나 재미 없던디요, 돈만 아깝구만이라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00685.wav|싫은디요! 그짝부터 말해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00458.wav|지가 지금 목 상태가 안 좋은디, 문자로 얘기해도 될까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00016.wav|이 좋아한디 요즘엔 바빠서 못 봤구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00510.wav|예. 바로 출발허것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00298.wav|올해를 넘기기 힘들 거 같으요. 걱정해주셔서 감사헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00468.wav|기침을 못허는 상황이믄 복부 밀어내기를 시행해야 헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00616.wav|예, 항공권 구매 헐 때, 규정에 따라 수수료 조건이 있었는디. 혹시 알고 계신가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00344.wav|그럼 이따 거그서 봐요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00090.wav|지 입맛엔 쏙 맞았는디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00215.wav|왜그란지 저한테 얘기해 줄 수 있을까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00621.wav|그짝도요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00673.wav|그 부분은 지가 도움이 되드리지 못할거 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00316.wav|지금은 매장 점검 시간입니다. 삼십분 뒤에 오시믄 더 좋은 서비스로 보답허것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00618.wav|그 사람이 그짝을 알아주지 않는다고 혀서 불평허지 말아요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00011.wav|친구가 많어도 외톨이인 기분이 들 때가 있지라. 저도 안당께요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00147.wav|죄송헌디 물은 셀프여요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00499.wav|쪼까 기다려 주십시오. 이따가 잠깐 정차하것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00619.wav|과일 매대 옆짝에 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00286.wav|그라믄, 담엔 딴 곳에 가봐요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00560.wav|오늘도 늦으셨는디 알고 계시지라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00307.wav|이 때 주의할 점이 누르는 각도가 구십도가 돼야 헌다는 건디, 말랑말랑한 손바닥 전체를 이용하는 것이 아니고, 손바닥 아래 딱딱한 부위로 눌러줘야 되고요, 약 오쎈티미터 이상 깊이로 눌러줘야 헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00304.wav|뭐라고 위로의 말씀을 드려야 헐지 모르것는디, 힘내세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00299.wav|일반적으로다가 통증이 호전될 때까정 시원한 물로 소독을 시행헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00040.wav|비까정 오네요! 마음이 외롭것어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00061.wav|누구 부탁인디 당연허죠.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00380.wav|그것은 비밀인디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00650.wav|아따 수고허십니다!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00284.wav|요즘 저 앞에 공사 중이어가꼬 더 그럴 거예요! 죄송헙니다. 근디 저희도 어쩔 수가 없네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00396.wav|최은영 님께서 갖고 계신 뛰어난 재능과 잠재력을 높이 평가허지만, 삼성이 원하는 인재상과는 맞지 않아서, 유감스럽게도 최은영 님을 채용헐 수 없게 되었습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00582.wav|이, 잘 지내제. 안부 물어보드만.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00289.wav|말레이시아는 항시 더웅게 암때나 가셔도 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00276.wav|운전면허증을 발급받기 위해서는 본인을 확인할 수 있는 신분증이 필요혔는디, 개정된 법규에는 운전면허의 부정 발급을 방지헐라고 본인 확인을 위한 지문 정보를 확인헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00410.wav|후회하지 않는 시간 만들기! 지랑 함께 해 봅시다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00233.wav|잘 참으셨어라. 화나믄 참기 힘들제.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00404.wav|오메, 누구헌티 선물해 주실라고요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00591.wav|남자친구가 생겼는디 겁나 잘생겼어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00422.wav|쾌차하셨당게 다행이네요. 참말로 기쁘요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00071.wav|부모님허고 같이 살고 싶어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00514.wav|그 여행사는 참말로 서비스가 엉망이드만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00044.wav|여그서 오 분 거리에 있소.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00157.wav|길 안내에 전화해 봐야 헐 것 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00100.wav|벌써 이해했응께 괜찮습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00679.wav|아침 여섯 시부터 열 시까지 가능허고 삼층 조식당으로 가시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00293.wav|안녕하셔요, 요즘도 운동허시지라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00256.wav|체력이 겁나 많이 소모됭게 주변에 응급처치 헐 수 있는 사람이 있으믄 번갈아 감서 실시허는 것도 좋습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00526.wav|적금 가입하셨어라? 얼마가 목표에요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00150.wav|예. 병원을 가보셔야 헐 것 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00519.wav|쪼금만 받아오시면 돼요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00131.wav|그라고 빨리 가블가다는 사고난당게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00249.wav|오메, 뭔 일이당가요? 어째 우울허시요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00687.wav|꽃 선물이 받고 싶구만이라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00163.wav|지가 원하는 게 아직 뭔지 잘 모르겄는디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00153.wav|신고방법은 세대주 또는 세대를 관리허는 자, 세대주의 위임을 받은 배우자 또는 직계존비속이 거주지 관할 동주민센터에 방문해가꼬 접수허실 수 있고, 홈페이지 민원 이십사에 접속허셔서 신고허실 수 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00695.wav|시간은 흘러가고 기다려주지 않으요. 그냥 보내블지 마세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00611.wav|죄송한디 자리에서 음식은 드실 수 없습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00663.wav|외투 보관 서비스를 이용허실 수 있는 곳은 총 네 군뎁니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00374.wav|엘리베이터가 떨어진건 아니것죠?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00622.wav|기운 내시요. 지는 그짝이랑 항시 같이 있응게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00509.wav|산모 건강은 으뜬가요? 언능 회복허길 기도허것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00693.wav|참말로, 잊지 못할 날입니다. 모두에게 감사드려요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00686.wav|중이염이네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00466.wav|생각보다 나이가 솔찬히 드셨네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00074.wav|꼭 성공허시길 바라겄습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00330.wav|죄송한디 그건 지가 헐 수가 없습니다. 전문가랑 상의해 보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00489.wav|저도 이런지 몰랐네요! 진짜 심하네요이.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00345.wav|최근 기술 중 하나를 선택해서 영업사원이 되가꼬 저희에게 팔아 보십시오.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00430.wav|검사 쪼까 해봅시다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00310.wav|교통카드로도 계산이 가능헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00216.wav|그것은 좀 곤란할 거 같은디요. 지가 만나는 사람 있어가꼬요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00111.wav|그라요? 은제부터요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00170.wav|아따 참말로 인자 고만 혔으면 좋것어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00128.wav|일본이 지리적으로는 가까운디, 문화적으로는 쪼까 차이점이 있지라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00666.wav|예, 그라믄 찍것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00368.wav|핵꾜생와르 으뜨요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00541.wav|매독 이상의 질병들은 거의 예방 가능한 것들잉게, 여행 전에 미리 여행의학 클리닉으로 가서 필요한 예방접종이랑 주의사항들을 준비허는 것이 반드시 필요헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00133.wav|조용허게 혼자 살고 싶네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00280.wav|예. 지는 여그 있는디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00594.wav|내일 출근허셔야 헝게 언능 주무세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00290.wav|이번 달에 엄니 생신이 있어가꼬 지출이 많아질 건디, 괜찮허까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00350.wav|대학교 수시 모집은 인터넷으로 허는디, 구월 십이일부터 구월 이십일일까지이고, 정시 모집은 일월 십사일부터 일월 이십일일까집니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00154.wav|그라믄, 그날 오께라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00136.wav|사람들 말로는 지가 유머러스하다든디요!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00202.wav|방사선 안전관리책임자 교육 홈페이지 또는 공이 오칠육에 팔사오팔로 문의허시기 바랍니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00052.wav|진주행은 막차 시간이 지나브렀는디 내일 오전 표로 예매해드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00250.wav|전달해드리것습니다. 으뜬 메시진가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00109.wav|낼 아침 여덟시까지 로비로 모여주세요. 자유롭게 아침 식사허시고 오시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00535.wav|저는 시방 인천에 와 있어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00112.wav|우리끼리 허는 얘긴디 여그 가격에 비해선 별로인 것 같으요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00144.wav|쑥스러운디 감사허요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00539.wav|아따, 알지라. 저도 홈트 해요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00586.wav|그짝하고 야그할 수 있어서 진짜 기뻐요. 그짝이랑 대화는 항시 즐거운게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00357.wav|성장이 활발허게 진행 중인 청소년들이 담배를 피면, 몸에 미치는 나쁜 영향이 성인보다 더 큽니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00448.wav|그동안 이상하게 식욕이 없었는디 오늘에야 살아난 것 같으요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00436.wav|위치가 참말로 좋은 것 같으요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00077.wav|종교 가지믄 맴이 쪼매라도 평안헌가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00069.wav|다음 주부터 허지만 그 때는 그 상품이 없을거에요 고객님.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00556.wav|아따 소문대로 잘생기셨네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00415.wav|인자 거 여자친구가 생긴당가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00124.wav|아따, 그라믄요, 엥간히 드시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00263.wav|예, 그짝으로 가시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00595.wav|재촉하지 마시요, 저도 시방 최선을 다하고 있응게.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00542.wav|아따, 역사적인 밤이었지라. 불꽃이 환상이었어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00521.wav|으디 공사 허나 봐요!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00288.wav|그짝이 그렇당게 지 맴도 우울해지네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00661.wav|말씀 많이 들었는디 요렇게 봉게 진짜 반갑네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00140.wav|황사 땜시 기침이 겁나게 심해져요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00279.wav|거래 조건이 안맞는 것 같구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00528.wav|보증금을 올려블믄 월세는 저렴해지제.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00258.wav|사랑허는 사람하고 가정을 꾸리고 싶어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00394.wav|요 앞에 있습니다. 댕겨오셔요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00697.wav|너무 많은디요? 분야별로 다 있어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00243.wav|해발 천오백칠십미터로 다소 높을 수는 있는디 안전합니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00155.wav|으트게 알고 전화허셨다요? 감사헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00444.wav|그럼요, 당연하죠. 식사 후에 드세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00698.wav|신혼 생활은 으찌요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00199.wav|눈 오믄 운전하기 힘든디, 지는 그다지 좋지가 않네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00413.wav|지야말로 이 은혜를 으트게 갚을까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00102.wav|도저히 그때꺼정 안될거 같은디 시간을 쪼금만 더 주시것습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00167.wav|겁나게 많죠. 한번 검색해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00629.wav|안직 못 해봤는디. 그짝은 해 봤어라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00423.wav|사람들 말로는 지가 겁나게 진지하다요!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00230.wav|그 목표를 위해서 뭣을 허셨습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00046.wav|그것들은 성격 차이로 헤어졌다요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00662.wav|그라믄요, 기숙사 있어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00579.wav|간단허게 자기소개 부탁드립니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00455.wav|시방 인나야 안 늦으요. 언능 일나시요!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00644.wav|저는 요론 곳이랑 어울리지 않은 것 같으요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00388.wav|저는 비틀즈 좋아허는디 그짝은요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00213.wav|아따 겁나 맛있드만요! 또 먹어보고 싶어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00642.wav|전등이 수명을 다한 것 같은디, 교체할까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00141.wav|음주 측정기를 불어주시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00275.wav|예. 그라믄 저도 다른 분한테 드릴게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00633.wav|왼쪽으로 가다가 오른쪽으로 가시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00381.wav|그짝은 나를 비난 헐 자격이 없어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00110.wav|또, 베트남에는 가짜 택시가 많아라. 미터기 조작이나 범죄에 노출될 수 있응게 공인된 택시만 사용허세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00227.wav|안녕하시요? 기다리고 있었어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00347.wav|우리 백일은 십일 남았어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00041.wav|여그는 벌레가 겁나 많을 것 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00643.wav|예약허신 분 성함을 알려주시것어요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00588.wav|인자 곧 입학허는디, 겁나게 설렙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00399.wav|한명당 십오만 원잉께, 총금액은 사십오만 원입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00096.wav|죄송헌디 시방 제주도 편은 대설 주의보로 인해서 결항입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00084.wav|에르메스 매장을 찾으시는거 같은디 괜찮으시믄 지가 같이 가드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00362.wav|여그는 촬영 금지 구역이라 안됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00432.wav|자동차로 한 십오분 걸린다요. 시방 길이 쪼까 막히니께, 인내심을 가지고 가시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00464.wav|아따, 어머님을 닮으셨네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00300.wav|자, 출석을 부르것습니다. 김진철!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00015.wav|공이 오른쪽으로 가블믄 위험허요이.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00407.wav|철수 심리가 불안정 헌 것 같은디, 심리 검사를 한번 받아보시것습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00470.wav|한국팀이 이겨브렀어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00635.wav|배우 누구 닮았당가?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00317.wav|수하물에 손상이 있었을 경우에는 수하물을 인도받으신 날로부터 칠일 이내에, 수하물이 지연 또는 분실된 경우에는 항공사에 수하물을 위탁하신 날로부터 이십일일 이내에 항공사에 서면으로 신고허셔야 합니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00505.wav|안되지라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00490.wav|태국은 불교의 나랑께 불교에 관해서 주의할 것이 많습니다이.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00089.wav|이혼은 두 분만의 문제가 아닝께 다시 한 번 잘 생각해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00559.wav|어메 시상에. 맴이 아프시것어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00536.wav|무서운 꿈을 꿔가꼬 아직도 떨리요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00534.wav|요 티켓이랑 여권 주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00014.wav|그 가격에 요정도 되는 집은 요거 하나요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00571.wav|지금 유럽 여행 중인디. 벌써 석 달 됐네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00533.wav|할인 요금 포함해가꼬 삼백만 원입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00186.wav|예, 가셔가꼬 문 여시믄 거가 있을 거예요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00159.wav|그 날이 십이월 이십일인디요. 앞으로 십일 남았습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00114.wav|환율에 익숙허지 않은 손님들에게 물건 가격을 말 않허고 많은 액수의 영수증에 사인허도록 유도하는 경우가 있다고 헝게 주의해주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00267.wav|지는 라떼로 먹을게요. 휘핑크림 얹어가꼬요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00073.wav|확인해 드리것습니다. 근디 요 티켓 온라인 탑승권을 지참하시는 것이 원칙입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00181.wav|오늘 새로 온 직원잉께, 서로 인사들허시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00104.wav|허시는 일을 좋아하신당게 보기 좋네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00580.wav|저는 보지도 못했어요. 영화가 겁나 끔찍허더라고요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00696.wav|마음에 드신당게 다행이에요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00634.wav|좋은 아침입니다. 별일 없으셨지라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00513.wav|인자 막 도착했는디 잠시만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00099.wav|수능을 못 봐도 좌절허지 마세요. 고것이 인생의 전부는 아닝께요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00632.wav|사업에 성공하신거 겁나 축하드립니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00063.wav|지는 악기를 배우고 있는디 같이 배울라요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00583.wav|참말로 감사허요. 잘 부탁드립니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00678.wav|예, 웰컴 주스 한 잔 준비해드리것습니다. 쪼까만 기다려주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00674.wav|백화점이 그라고 불친절하다니, 참말로 놀래브렀당게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00700.wav|아무리 노력해도 용서가 안되는구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00121.wav|오늘 일정은 여그까지입니다. 모다 즐거운 여행이셨어라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00441.wav|저는 외동딸인디, 그짝은요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00175.wav|판매점에서 판매허고 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00550.wav|당뇨병 검사를 한번 해볼라요! 공복 혈당검사는 적어도 여덟시간 동안 금식한 후에 해야 됭게, 내일 검사 허죠.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00291.wav|야구 시즌인디, 보러 가실라요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00273.wav|월세요? 전세요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00195.wav|다시 연락해보시요. 인연이믄 마음을 받아줄꺼고만.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00472.wav|참말로 조용하고 분위기가 있네요 잉.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00607.wav|그짝 마음을 솔직허게 전해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00282.wav|예, 비상약이 있는지 찾아보것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00367.wav|예, 고객님 예약되셨는디요. 혹시 기내식도 따로 예약해드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00103.wav|고객님! 저희는 아울렛이라 보증기간이 없어요. 죄송헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00049.wav|어째 그러신다요? 그것은 비밀인디.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00437.wav|그 쉐프가 요리를 잘 못 허는 것 같으요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00237.wav|기술영업 직무에 으트게 지원을 했고, 여그에 관해서 그짝이 쌓은 역량은 무엇입니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00294.wav|잠시만요. 시방 오고 계싱게 끊지마쇼이.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00671.wav|으찌까요! 저 애인 있는데, 시방 기다리고 있어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00204.wav|아까 그 여자분은 누구시대요? 가까워 보이든디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00565.wav|언능 엽산을 더 많이 섭취해야 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00465.wav|쪼금만 기다려 주시요. 죄송헙니다. 오늘은 예약이 꽉 찼습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00459.wav|응급 상황이 발생했을 때는 환자를 안전한 지역으로 옮긴 다음에, 상태를 살피고 무조건 환자를 병원에 이송허기보다는 응급 상황인지 아닌지 파악하는 것이 필요헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00670.wav|시험에 꼭 합격허시길 기도드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00240.wav|리플릿이나 전시도록 등으로 전시에 관한 정보를 가볍게 파악해주시믄 좋아요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00612.wav|오늘의 날씨는 십도입니다. 비가 올 예정잉게, 우산을 준비해주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00198.wav|손님, 명절 연휴라 가능헌 비행기는 현재 없습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00511.wav|아니여! 다 잊어뿌렀어.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00113.wav|거봐요, 잘 될 거라고 했잖에요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00329.wav|그 메일로는 예약 확인이 안됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00563.wav|또, 자동차 트렁크에 짐을 넣어뒀을 경우에, 목적지에 도착혀서 짐을 안 내려주고 그냥 도망가뿌는 경우도 가끔 있다고 헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00259.wav|베스트 상품 코너에 가시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00333.wav|저는 마른 편인디, 그짝은요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00488.wav|예. 확인해드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00145.wav|그짝 차는 견인 차량 보관소에 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00589.wav|우리 편이 저브렀어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00305.wav|맴이 왜 안 좋으께라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00158.wav|아까참에 저는 그짝 행동에 솔찬히 실망했구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00086.wav|고맙긴요, 그동안 지가 진 신세가 있는디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00348.wav|주변에 응급처치 헐 수 있는 사람이 있으믄 번갈아 가면서 실시허세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00062.wav|배 많이 고프시죠? 조금만 참으시요. 인자 곧 요리 끝나갑니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00231.wav|예, 고객님. 인기 상품 코너는 이짝인디요. 인기 상품보다는 고객님의 취향에 맞게 보시는 것이 더 좋으실 거 같습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00224.wav|사이즈가 좀 큰 거 같은디 으뜨요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00264.wav|저도 겁나 보고 싶어가꼬 죽것네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00038.wav|머리 모냥은 시방이 더 나은거 같은디. 괜찮아 보인디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00456.wav|지금 제주도는 기상 악화로 결항입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00484.wav|진주행은 우등 버스 밖에 없어라. 성인 요금은 만 오천 원인디, 표를 드릴까라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00405.wav|프로모션에 따라 다른디 은제 보실랍니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00278.wav|손님, 시방 한명 좌석이 없는디 으트게 해드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00010.wav|오메 시상에! 겁나 반갑네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00228.wav|다음 주 토요일부터 허죠.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00376.wav|안녕하세요! 날씨가 겁나 더워졌지라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00207.wav|소화기로 불을 끌랑게 대피허시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00314.wav|저는 뉴에이지 음악을 좋아허요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00173.wav|아니요! 꼭 그렇진 않는디. 사람마다 다른거 같습디다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00130.wav|괜찮해요. 암시랑토 않어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00393.wav|그람요, 잘 알것어요. 기도헐게요! 파이팅!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00223.wav|조식 시간은 아침 일곱시부터 여덟시까징게, 여덟시까지 식사허시고 로비로 모여주시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00668.wav|시방 레스토랑이 겁나 붐벼서 자리가 여그 밖에 없는디 괜찮으십니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00065.wav|신혼여행지로 좋은 곳, 몰디브는 이슬람 국가입니다. 긍게 돼지고기랑 술은 반입이 금지되어 있어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00420.wav|건강 검진 땜시 못 드시는 거지라? 쪼까만 참고 이따가 드세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00498.wav|손이 다 꽁꽁 얼어브렀어요. 출근허기 괜찮았어요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00636.wav|기획사 대표를 알고 있응게 지가 연락처 드릴게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00029.wav|성격의 장단점을 솔직허니 말해보시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00035.wav|우리 게임함시롱 한 잔 더 헐까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00570.wav|저는 대가족이 모여 사는게 꿈이어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00544.wav|죄송해요! 차가 겁나 막혀서 늦었습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00056.wav|페이지를 체크해주시믄 지가 일하는데 훨씬 수월해요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00524.wav|불만이 많은 건 알겄는디 이런다고 해결되지는 않으요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00168.wav|뭣헌디 헤어졌으까? 다시 연락해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00546.wav|그럼 요번만 사고 담부터는 절약허면 되것네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00091.wav|아 긍께 아까부터 서두르라고 했잖에요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00083.wav|상관없어요. 으찌 가도 다 나옹게.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00220.wav|안된당께요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00400.wav|아까 그 영화 그짝은 으뜨요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00408.wav|그 날은 공휴일로 지정됐습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00354.wav|케이티엑스, 새마을호, 무궁화호가 있는디, 어느 열차로 허실랍니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00494.wav|그라믄, 담엔 딴 레스토랑 가봅시다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00659.wav|거그도 겁나 이쁘요. 자신감을 가지세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00189.wav|사람을 외모로 판단허면 안되지라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00429.wav|저 시방 겁나 배고파요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00025.wav|그 상품은 울허고 폴리 혼방이어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00200.wav|그라믄 십프로 할인해가꼬 드릴까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00549.wav|어째 저한테 이럴 수가 있소? 참말로 너무 헌 것 같네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00475.wav|통장에 잔고가 없어갖고 불가능할 거 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00390.wav|그짝이야말로 저한테 뭔 불만이 있으신가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00667.wav|좋아하는 음식은 뭐다요? 말씀허시믄 지가 바로 요리를 해드릴게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00469.wav|부작용을 많이 없앨라믄 요즘엔 코끝에 자가연골을 써갖고 수술헌디, 요걸로 선택허시것습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00283.wav|예. 예약 확인 도와드리것습니다. 성함이 으트게 되시죠?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00271.wav|안녕하세요! 시험 본 거 으트게 됐어요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00050.wav|친구허고 싸웠는디 화해를 못 할 것 같으요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00540.wav|저는 애인 있어요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00346.wav|친구들이 그라는디 지가 웃기답디다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00630.wav|시상에 지금까지 허신거에요? 인자 좀 쉬시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00043.wav|오즈 항공편을 이용허시는 아시아나 클럽 또는 스타일라이언스 회원이시믄, 오일 무료 이용이 가능허고요. 일일 초과 시 이천원이 부과됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00555.wav|예, 그럼요. 애도 있으시믄 카시트는 의무사항이에요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00269.wav|지도 운동하고 싶구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00033.wav|성향 테스트를 혔는디 잘 맞드라고요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00576.wav|축하헙니다! 임신하셨어요. 구주 되셨네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00006.wav|다리를 쪼까만 더 구부려보셔이.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00117.wav|글씨요? 근디 한 명도 없으믄 겁나 외로울 것 같긴허요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00219.wav|가셔가꼬 좌회전 허시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00017.wav|그려, 그짝은 최악이었당께.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00608.wav|이라고 이별헐 수 밖에 없구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00123.wav|예, 근디 화가 나는 건 어쩔 수가 없네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00669.wav|식구들이랑 다퉈가꼬 밖에 혼자 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00609.wav|그라고 말해중게 지가 더 감사허네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00156.wav|실은 지가 시방 다이어트 중이어가꼬요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00497.wav|좋은 곳에 사시는구마.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00547.wav|주중 요금이랑 주말 요금이 다른디, 은제 보실 랑가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00599.wav|오믄서 다리를 다쳤네요. 죄송해요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00523.wav|고건 왜 물어보신당가요? 비밀이여요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00003.wav|쬐끔만 더 허시믄 겁나 건강해지실꺼여.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00007.wav|귀중품은 항시 몸 안쪽에다가 넣어가지고 당기셔. 소매치기가 솔찬이 많응게.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00245.wav|겁나 양이 많네요. 사람이 더 와도 되것어라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00190.wav|시방 딱 좋은 집이 나왔는디 보러 가실라요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00135.wav|예, 검토허것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00093.wav|괜찮해요. 열시까지는 사람들이 있으니께.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00311.wav|예. 인자 슬슬 도착헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00461.wav|저는 가요를 좋아해요. 발라드. 그짝은 으뜨요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00477.wav|저희 매장에선 여자 신발은 안 판디, 앞 매장으로 가시믄 여자 신발을 판매허고 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00262.wav|아까 말씀허신 거 다시 말씀해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00058.wav|예, 고객님 가능헙니다. 짐은 로비에 맡겨주시고요. 수영하고 샤워는 사우나에서 허시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00614.wav|테니스가 솔찬히 힘들다고 허던디, 으뜬가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00352.wav|용납이 안되는디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00439.wav|예약이 안됐는디, 다시 한번 확인해주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00321.wav|아따, 동안이시구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00002.wav|남자 연기자 아는 사람 있소? 소개 쪼까 시켜주시오.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00446.wav|지는 대구에 살구만이라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00518.wav|그 이름으로다 예약된 사항이 없는디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00116.wav|지는 아직 배가 안고프구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00120.wav|연착으로 인해가꼬 다음 비행기를 놓쳐블믄 저희 항공사에서 호텔을 제공 해드리고, 다음 비행기 편으로다가 탑승허실 수 있게 연결해 드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00600.wav|결혼이랑 직업이 그라고 상관있을까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00564.wav|예, 시방 밖에 소나기가 오고 있응께 우산 챙겨서 나가세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00419.wav|오늘 아침 열시서부터 물탱크 청소시간이여요. 오후 세시경에 다시 온수가 나올 겁니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00092.wav|겁나 이쁠거 같은디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00031.wav|애완견 키우기에 딱 좋은 아파트가 있는디. 근처에 동물병원허고 애견 카페도 있응께요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00325.wav|다른 시간이 가능허시믄 교육 일정 협의 후에 진행 가능헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00421.wav|주사도 한 대 맞고 가실라요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00383.wav|힘든 날들이었지라. 상처 극복이 안 되네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00183.wav|그 학원 유명하다드만 별론갑네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00604.wav|못 지냈어요. 살도 겁나게 쪄브렀고요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00581.wav|일반 버스 칠백칠을 타가꼬 신광마을 입구, 진접센트레빌시티에서 내려서 수도권 일호선 청량리역에서 내린 다음에, 공항철도 서울역으로 환승해서 김포공항역에서 하차허세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00205.wav|탱고의 나라 아르헨티나에서는 여행객에게 물이나 음료를 쏟고, 그것을 닦아 주것다고 접근허는 소매치기범이 많습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00557.wav|시상에, 이렇게 이쁜 여자친구가 있었다요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00337.wav|승객님, 결혼기념일 축하드립니다! 승객님을 위헌 작은 케이크입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00161.wav|요가나 필라테스가 좋다고 들었는디요! 운동허시게요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00649.wav|대기 중에는 모자허고 선글라스는 벗으시고 휴대폰 통화는 자제해 주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00478.wav|이 참말로요. 진짜 짜증날 것 같으요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00253.wav|목돈 굴리기 가입 허실 건가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00127.wav|친구가 되고 싶구만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00454.wav|지야말로 죄송했습니다. 괜찮습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00574.wav|고객님께만 해드리는 겅게, 으디 가가꼬 말씀허시면 안 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00341.wav|죄송헌디 다시 돌아오는 일정이 아니어가꼬요. 조금만 참아주시것습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00626.wav|구조대가 가고 있는 상황입니다. 구조대가 도착헐 때까지 인공호흡과 심폐소생술을 실시허십시오.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00652.wav|오매 죄송헙니다. 비어있는 룸이 있는지 확인허고 연락드리겄습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00008.wav|나가 으디 있을께라? 언능 알아맞춰 보셔.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00203.wav|아따 참말로 그러드만요. 시상에.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00322.wav|참말로 좋은 계획이네요. 꼭 이루시길 바라것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00184.wav|지난번에 으디까지 혔는지 아는 분 있을까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00486.wav|지가 오해하게 했네요. 죄송헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00064.wav|유산이 많은 시긴께 조심허셔야 합니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00034.wav|예, 발급기에서 예약 번호를 누르시믄 바로 발급 가능헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00566.wav|겨울 허면 스키제. 스키장 가실라요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00335.wav|위반 시 범칙금 십삼만 원, 십삼세 미만 육만 원이 부과됩니다. 육세 미만 카시트 미착용 시에는 범칙금 육만 원이 부과됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00512.wav|엄니가 겁나 미인이시네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00641.wav|아따, 요런 우연이있네요이! 반갑네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00387.wav|저는 시방 미국에 있는디 요즘 날씨가 겁나게 좋아브러요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00605.wav|고마운디 마음만 받은 걸로 헐게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00287.wav|추천해준 요리는 으떠셨는가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00529.wav|저는 새벽에 요가허고 와요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00463.wav|롯데백화점 말씀이지라? 여그서 도로로 가기엔 쪼까 먼디, 지하철로는 두 정거장 걸리요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00389.wav|밝혀졌응게 됐네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00137.wav|밴맹 좀 고만 허시요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00590.wav|시간이 얼마 안 남았어라. 더 열심히 허세요!|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00375.wav|잘 못 오셨어라. 건너가꼬 타시야돼.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00568.wav|사개월이시라고요? 인자 태아가 쪼까씩 움직이것네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00543.wav|언능 더 얘기해주시요. 겁나 재밌네요. 대답해 주셔야제! 언능요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00235.wav|지하철 청담역 삼번 출구에서 내려가꼬 걸어서 오분이 가장 빠릅니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00433.wav|그람요, 당연하지라.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00281.wav|마지막에 잰 것이 몇 도였어라?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00691.wav|쪼까 지루헝게 음악 좀 들으믄서 갈까요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00359.wav|그랄 수 있습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00351.wav|오른쪽으로 가다가 왼쪽으로 가시믄 됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00254.wav|같이 요리 해가꼬 드실라요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00382.wav|사번 출구로 나가시면 바로 보일 겁니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00134.wav|예. 근디 요번 한번 뿐 입니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00596.wav|콜라랑 세트로 허시믄 백 원이 추가되는디, 추가허시겠습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00028.wav|말도 마시랑께요, 겁나 힘들었응게.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00487.wav|저는 여그 실습 나왔어요. 그짝은요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00485.wav|고개를 왼짝으로 살짝 돌려주세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00060.wav|그럼, 요 반지는 어떠세요? 송혜교가 착용허고 나와서 인기상품인디.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00395.wav|애기 등 뒤에서 배꼽과 명치 중간에 주먹을 갖다대고, 배를 아래에서 위로 끌어 올리듯이 시게 땡겨서 밀어 올리세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00453.wav|들었어라. 깜짝 놀랐당게요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00166.wav|손님, 변경허시고 싶은 날짜를 먼저 말씀해 주시것습니까?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00164.wav|죄송헙니다. 요 제품이 한 번도 이런 적이 없었는디요. 고장 접수해드리것습니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00225.wav|휴학허실 건가요?|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00246.wav|안녕하세요! 인자 봄인갑네요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00654.wav|자동차 겁나 탐나던디요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00690.wav|빨간 선 안으로 들어가시믄 안됩니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00185.wav|낮 열시 오분이여.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00572.wav|벌써 잊어브렀어요? 팔월이었잖아요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00684.wav|지가 그짝 편이 돼 드릴게요. 말씀해보세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00501.wav|시방 밖이 겁나 쌀쌀헝게 감기 조심하세요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00640.wav|거거 학원 강사님들은 겁나 좋아요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00660.wav|혼자 두 명의 이십사개월 미만 아기를 데리고 탈 경우에는 보호자가 한 명을 안고, 나머지 한 명은 통상운임 칠십퍼센트의 소아 운임을 지불해야 헙니다.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00094.wav|알아봉께 천구백칠십년 생이시드만요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00303.wav|겁나 잘 지내지라. 결혼했잖아요.|pfp|0|0
+/mnt/sdd1/selvas_wav/pfp/wav_trimmed_22050/pfp00208.wav|저기압이 통과되믄 서쪽서부터 고기압이 접근해 올 것으로 예상됩니다.|pfp|0|0

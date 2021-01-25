@@ -1,0 +1,100 @@
+/data/sunghee/selvas_new_emotion/nej/wav_22050/nej00346.wav|옷가게에 갔는데 66 이상은 없다고 해서 기분이 상했어.|nej|3|3
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00256.wav|억울하게 희생당한 그분들을 생각하면 눈물이 앞을 가린다.|neh|2|2
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00011.wav|세종문화회관에서 사진전이 있다는데, 같이 가볼래?|nek|0|0
+/data/sunghee/selvas_new_emotion/neg/wav_22050/neg00236.wav|팀원들 모두 기대했을 텐데, 결과가 좋지 않아 마음이 무겁네요.|neg|2|2
+/data/sunghee/selvas_new_emotion/nea/wav_22050/nea00113.wav|먹자마자 입안에서 살살 녹는데.|nea|1|1
+/data/sunghee/selvas_new_emotion/neq/wav_22050/neq00395.wav|그동안 써온 이력서만 해도 100장이 넘는다고!|neq|3|3
+/data/sunghee/selvas_new_emotion/net/wav_22050/net00196.wav|그 사람이 나의 고백을 받아줘서 세상을 다 가진 것만 같아요.|net|1|1
+/data/sunghee/selvas_new_emotion/neb/wav_22050/neb00320.wav|조언을 해줘도 들은 척도 안 하고 있으니 답답하다.|neb|3|3
+/data/sunghee/selvas_new_emotion/neb/wav_22050/neb00024.wav|색상은 베이지로, 크기는 작은 치수로 하나 주세요.|neb|0|0
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00350.wav|기념일을 잊어버린 남자친구의 괘씸죄를 어떻게 하면 좋을까?|nek|3|3
+/data/sunghee/selvas_new_emotion/nep/wav_22050/nep00101.wav|오랫동안 짝사랑해왔던 니가 지금 내 곁에 있다는 게 꼭 꿈만 같아.|nep|1|1
+/data/sunghee/selvas_new_emotion/nes/wav_22050/nes00390.wav|동생이 자기 구두 한 번 신었다고 난리를 치는 데 정말 얄밉더라.|nes|3|3
+/data/sunghee/selvas_new_emotion/nes/wav_22050/nes00320.wav|조언을 해줘도 들은 척도 안 하고 있으니 답답하다.|nes|3|3
+/data/sunghee/selvas_new_emotion/nes/wav_22050/nes00389.wav|퇴근 시간인데도 하는 일 없이 자리만 지키고 계신 부장님이 야속해.|nes|3|3
+/data/sunghee/selvas_new_emotion/nef/wav_22050/nef00107.wav|이런 좋은 선물까지 주시고 정말 감사합니다.|nef|1|1
+/data/sunghee/selvas_new_emotion/neq/wav_22050/neq00183.wav|갑자기 쏟아지던 비가 그치고 나니 날씨가 더 화창해졌어.|neq|1|1
+/data/sunghee/selvas_new_emotion/nej/wav_22050/nej00192.wav|운 좋게 비행기 좌석을 업그레이드 받았어요!|nej|1|1
+/data/sunghee/selvas_new_emotion/nea/wav_22050/nea00299.wav|그 사람이 그리워 마음이 너무 아파요, 그 사람은 절 생각하지 않겠죠?|nea|2|2
+/data/sunghee/selvas_new_emotion/net/wav_22050/net00070.wav|아침은 쌀밥 대신 귀리나 오트밀, 점심은 황제처럼, 저녁은 든든하게.|net|0|0
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00399.wav|요즘 호감을 느끼고 만나는 직장동료가 있는데 진심을 모르겠어.|nek|3|3
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00381.wav|오래간만에 운전하는데 무단횡단하는 몰상식한 사람들 때문에 십 년 감수했다니까.|nek|3|3
+/data/sunghee/selvas_new_emotion/nea/wav_22050/nea00195.wav|제가 유럽여행에 당첨됐다고요?|nea|1|1
+/data/sunghee/selvas_new_emotion/net/wav_22050/net00385.wav|점심 메뉴를 본인 마음대로 결정하는 상사를 볼 때마다 정말 못마땅해.|net|3|3
+/data/sunghee/selvas_new_emotion/ner/wav_22050/ner00317.wav|저들의 행태를 보면 아주 피가 거꾸로 솟아요.|ner|3|3
+/data/sunghee/selvas_new_emotion/ner/wav_22050/ner00079.wav|오늘 점심을 누가 살지 사다리 타기로 정하자.|ner|0|0
+/data/sunghee/selvas_new_emotion/ner/wav_22050/ner00178.wav|남자친구가 몰래 준비한 깜짝 생일파티에 감동했어.|ner|1|1
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00061.wav|바다의 포식자로 불리는 백상아리 한 마리가 발견되었어요.|nek|0|0
+/data/sunghee/selvas_new_emotion/nei/wav_22050/nei00098.wav|추가 주문하시겠습니까?|nei|0|0
+/data/sunghee/selvas_new_emotion/nes/wav_22050/nes00002.wav|주연 배우 캐스팅이 마무리되는 대로 촬영을 시작할 거래.|nes|0|0
+/data/sunghee/selvas_new_emotion/neg/wav_22050/neg00181.wav|엄청나게 배고팠는데 이제야 살 것 같아.|neg|1|1
+/data/sunghee/selvas_new_emotion/neb/wav_22050/neb00089.wav|점심때 상추를 먹어서 졸린 게 아니라 만성피로가 문제야.|neb|0|0
+/data/sunghee/selvas_new_emotion/nee/wav_22050/nee00033.wav|노르웨이에 가실 거라면, 여름이 가장 여행하기 좋은 계절이에요.|nee|0|0
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00170.wav|풍경이 너무 아름다워서 가슴이 뭉클할 정도야.|neh|1|1
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00117.wav|드디어 직구 성공해서 콧노래가 절로 나와.|nek|1|1
+/data/sunghee/selvas_new_emotion/nec/wav_22050/nec00097.wav|온라인에서 졸업 증명서와 성적 증명서 발급하는 방법을 알려주세요.|nec|0|0
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00266.wav|갑자기, 준비도 없이 그 사람을 그렇게 보내고 나니 상실감이 더 커.|neh|2|2
+/data/sunghee/selvas_new_emotion/nem/wav_22050/nem00084.wav|이번 회식에 참석이 어려우신 분들은 미리 말씀해 주세요.|nem|0|0
+/data/sunghee/selvas_new_emotion/nep/wav_22050/nep00266.wav|갑자기, 준비도 없이 그 사람을 그렇게 보내고 나니 상실감이 더 커.|nep|2|2
+/data/sunghee/selvas_new_emotion/ner/wav_22050/ner00214.wav|부자는 망해도 3대는 간다던데, 그 집 사정이 정말 딱하게 됐어.|ner|2|2
+/data/sunghee/selvas_new_emotion/ner/wav_22050/ner00051.wav|최 대리, 거래처에서 회의 장소 관련 메일을 보냈더라.|ner|0|0
+/data/sunghee/selvas_new_emotion/ned/wav_22050/ned00239.wav|요즘 내가 사는 게 사는 게 아니야, 진심 죽고 싶다.|ned|2|2
+/data/sunghee/selvas_new_emotion/nes/wav_22050/nes00306.wav|어떻게 사람의 탈을 쓰고 그런 짓을 할 수 있니?|nes|3|3
+/data/sunghee/selvas_new_emotion/ned/wav_22050/ned00032.wav|전염병을 예방하려면 철저한 소독과 멸균이 중요합니다.|ned|0|0
+/data/sunghee/selvas_new_emotion/ned/wav_22050/ned00068.wav|해변가에 상어가 출몰해 피서객들의 주의가 필요합니다.|ned|0|0
+/data/sunghee/selvas_new_emotion/nel/wav_22050/nel00192.wav|운 좋게 비행기 좌석을 업그레이드 받았어요!|nel|1|1
+/data/sunghee/selvas_new_emotion/nep/wav_22050/nep00243.wav|힘들게 준비한 공모전인데, 발표를 연기한다니 정말 맥빠진다.|nep|2|2
+/data/sunghee/selvas_new_emotion/nec/wav_22050/nec00098.wav|추가 주문하시겠습니까?|nec|0|0
+/data/sunghee/selvas_new_emotion/nef/wav_22050/nef00145.wav|뭘 이런 걸 다 준비하시고, 매번 정말 고맙습니다.|nef|1|1
+/data/sunghee/selvas_new_emotion/nes/wav_22050/nes00272.wav|사랑하지만 보내줘야 하는 그녀 앞에서 눈물이 나려는 걸 몇 번이고 참았어.|nes|2|2
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00301.wav|계속해서 저렇게 억지 주장을 하고 있으니 저 모양이지.|nek|3|3
+/data/sunghee/selvas_new_emotion/neq/wav_22050/neq00389.wav|퇴근 시간인데도 하는 일 없이 자리만 지키고 계신 부장님이 야속해.|neq|3|3
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00157.wav|오래간만에 이런 기쁜 소식을 들으니 좋네요.|neh|1|1
+/data/sunghee/selvas_new_emotion/neq/wav_22050/neq00217.wav|주인이 교통사고라며, 그 집 고양이 불쌍해서 어떡해.|neq|2|2
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00075.wav|콜드 부루는 커피 원두를 차가운 물로 오랜 시간을 들여 우려내는 방식을 말해.|nek|0|0
+/data/sunghee/selvas_new_emotion/neb/wav_22050/neb00250.wav|10년 넘게 동고동락했던 고양이가 집을 나가버렸어.|neb|2|2
+/data/sunghee/selvas_new_emotion/nea/wav_22050/nea00317.wav|저들의 행태를 보면 아주 피가 거꾸로 솟아요.|nea|3|3
+/data/sunghee/selvas_new_emotion/neo/wav_22050/neo00194.wav|드디어 시험이 끝났어, 오늘은 신나게 즐길 거야.|neo|1|1
+/data/sunghee/selvas_new_emotion/neq/wav_22050/neq00060.wav|자외선에 노출된 모발은 단백질이 파괴되고 윤기와 탄력을 잃어요.|neq|0|0
+/data/sunghee/selvas_new_emotion/nee/wav_22050/nee00244.wav|널 기다리는 것도 지쳤어, 이제 그만 돌아왔으면 좋겠어.|nee|2|2
+/data/sunghee/selvas_new_emotion/nee/wav_22050/nee00151.wav|너 같은 좋은 사람이 내 친구라니, 난 정말 행운아야.|nee|1|1
+/data/sunghee/selvas_new_emotion/nes/wav_22050/nes00227.wav|곧 명절인데 부모님을 뵐 면목도 없고 마음만 무거워진다.|nes|2|2
+/data/sunghee/selvas_new_emotion/nee/wav_22050/nee00373.wav|신은 정말 불공평해, 난 왜 물만 먹어도 살이 찌는 거야!|nee|3|3
+/data/sunghee/selvas_new_emotion/nec/wav_22050/nec00296.wav|점점 나이를 먹으면서 눈물샘이 마른 줄 알았는데, 아니었나 봐.|nec|2|2
+/data/sunghee/selvas_new_emotion/nec/wav_22050/nec00038.wav|오트밀은 식이섬유가 풍부해서 아침 식사 대용으로도 좋아.|nec|0|0
+/data/sunghee/selvas_new_emotion/nea/wav_22050/nea00093.wav|부모님의 결혼기념일 선물로 뭐가 좋을까?|nea|0|0
+/data/sunghee/selvas_new_emotion/nec/wav_22050/nec00136.wav|10년 동안 준비한 내 꿈이 이루어졌어.|nec|1|1
+/data/sunghee/selvas_new_emotion/nee/wav_22050/nee00366.wav|졸업 후에 연락도 없던 친구가 청첩장을 보낸 거야, 어찌나 얄밉던지.|nee|3|3
+/data/sunghee/selvas_new_emotion/nej/wav_22050/nej00368.wav|자기 기분에 따라 부하직원들을 평가하는 상사랑 같이 일하는 건 고역이야.|nej|3|3
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00022.wav|이 대리와 김 대리는 내일 백화점에서 시장조사를 해주세요.|nek|0|0
+/data/sunghee/selvas_new_emotion/nee/wav_22050/nee00258.wav|언제부터인가 우울증이 나를 집어삼키는 것 같아.|nee|2|2
+/data/sunghee/selvas_new_emotion/nem/wav_22050/nem00045.wav|내가 자료조사할 테니까, 스크립트 작성은 니가 맡아줘.|nem|0|0
+/data/sunghee/selvas_new_emotion/net/wav_22050/net00175.wav|마치 구름 위를 걷는 것 같은 기분이야.|net|1|1
+/data/sunghee/selvas_new_emotion/net/wav_22050/net00260.wav|네가 아픈 게 나 때문인 것만 같아서 미안해, 다 내 탓이야.|net|2|2
+/data/sunghee/selvas_new_emotion/nem/wav_22050/nem00306.wav|어떻게 사람의 탈을 쓰고 그런 짓을 할 수 있니?|nem|3|3
+/data/sunghee/selvas_new_emotion/nes/wav_22050/nes00051.wav|최 대리, 거래처에서 회의 장소 관련 메일을 보냈더라.|nes|0|0
+/data/sunghee/selvas_new_emotion/nef/wav_22050/nef00300.wav|마지막이라는 말은 정말 슬픈 것 같아요.|nef|2|2
+/data/sunghee/selvas_new_emotion/nea/wav_22050/nea00296.wav|점점 나이 먹으면서 눈물샘이 마른 줄 알았는데, 아니었나 봐.|nea|2|2
+/data/sunghee/selvas_new_emotion/nen/wav_22050/nen00079.wav|오늘 점심을 누가 살지 사다리 타기로 정하자.|nen|0|0
+/data/sunghee/selvas_new_emotion/nep/wav_22050/nep00005.wav|불국사와 석굴암은 유네스코 세계문화유산으로 등재되어 있어.|nep|0|0
+/data/sunghee/selvas_new_emotion/nel/wav_22050/nel00357.wav|얼마 전 소개팅에서 만난 남자에게 거절 의사를 밝혔는데도 계속 연락이 와서 귀찮아.|nel|3|3
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00237.wav|지금 와서 생각해 보니, 더 열심히 해야 했던 건데 후회스러워.|neh|2|2
+/data/sunghee/selvas_new_emotion/nem/wav_22050/nem00242.wav|우리 할아버지는 언제쯤 북녘의 고향 땅을 밟아보실 수 있을까.|nem|2|2
+/data/sunghee/selvas_new_emotion/nej/wav_22050/nej00309.wav|한 번만 더 거짓말했다간 그땐 진짜 혼날 줄 알아.|nej|3|3
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00395.wav|그동안 써온 이력서만 해도 100장이 넘는다구!|nek|3|3
+/data/sunghee/selvas_new_emotion/neq/wav_22050/neq00065.wav|지나가는 소방차에 길을 열어주세요!|neq|0|0
+/data/sunghee/selvas_new_emotion/neb/wav_22050/neb00200.wav|몰래 숨겨둔 비상금도 모른 척해주고, 우리 마누라 최고!|neb|1|1
+/data/sunghee/selvas_new_emotion/neh/wav_22050/neh00265.wav|화재로 가족을 잃은 피해자들을 생각하면, 참으로 비통한 마음뿐입니다.|neh|2|2
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00132.wav|저 모델, 보는 것만으로 마음이 훈훈해지네.|nek|1|1
+/data/sunghee/selvas_new_emotion/nei/wav_22050/nei00305.wav|도대체 몇 번을 더 말씀드려야 술을 끊으시겠습니까?|nei|3|3
+/data/sunghee/selvas_new_emotion/neq/wav_22050/neq00205.wav|선생님, 애석한 마음을 금할 길이 없습니다.|neq|2|2
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00084.wav|이번 회식에 참석이 어려우신 분들은 미리 말씀해 주세요.|nek|0|0
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00064.wav|언제부터 소방차는 빨간색이 되었을까?|nek|0|0
+/data/sunghee/selvas_new_emotion/nej/wav_22050/nej00322.wav|저 가증스러운 미소가 정말 소름 끼치게 싫어요.|nej|3|3
+/data/sunghee/selvas_new_emotion/neg/wav_22050/neg00325.wav|자기 애를 저렇게 때린다니 짐승만도 못한 사람들이네요.|neg|3|3
+/data/sunghee/selvas_new_emotion/nel/wav_22050/nel00212.wav|내가 너한테 해준 게 얼만데 정말 섭섭하다.|nel|2|2
+/data/sunghee/selvas_new_emotion/neg/wav_22050/neg00202.wav|내가 오랫동안 좋아했던 배우였는데, 그런 사고를 당했다니 속상해.|neg|2|2
+/data/sunghee/selvas_new_emotion/net/wav_22050/net00335.wav|일 처리 계속 이딴 식으로 할 거면 그냥 관두세요.|net|3|3
+/data/sunghee/selvas_new_emotion/nep/wav_22050/nep00318.wav|배웠다는 사람이 저러고 있으니 한심합니다.|nep|3|3
+/data/sunghee/selvas_new_emotion/nek/wav_22050/nek00390.wav|동생이 자기 구두 한 번 신었다고 난리를 치는 데 정말 얄밉더라.|nek|3|3
+/data/sunghee/selvas_new_emotion/nee/wav_22050/nee00022.wav|이 대리와 김 대리는 내일 백화점에서 시장조사를 해주세요.|nee|0|0

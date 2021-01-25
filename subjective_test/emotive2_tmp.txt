@@ -1,0 +1,10 @@
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00240.wav
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00241.wav
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00242.wav
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00243.wav
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00244.wav
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00245.wav
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00246.wav
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00247.wav
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00248.wav
+/mnt/sdd1/selvas_emotion/neb/wav_22050/neb00249.wav
