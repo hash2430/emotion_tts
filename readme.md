@@ -1,4 +1,4 @@
-* 결과물 샘플: https://sunghee.kaist.ac.kr/entry/emotiontts?category=824825
+* 결과물 샘플: https://jsh-tts.tistory.com/entry/emotiontts
 * 체크포인트: 
   * TTS: https://www.dropbox.com/s/b0j8ixqdwks93rs/checkpoint_180000?dl=1
   * 보코더: https://www.dropbox.com/s/yewpxa5f619jlbz/waveglow_256channels_v4.pt?dl=1
